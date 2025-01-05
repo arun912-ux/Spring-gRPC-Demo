@@ -1,0 +1,1001 @@
+id,product_name,price,quantity,expiration_date,category,manufacturer,stock_symbol,location,is_available,purchase_date
+1,Sour Puss Sour Apple,54.15,500,9/6/2022,household,Flashdog,YORW,PO Box 62472,false,5/8/2022
+2,Wine - Magnotta - Bel Paese White,59.98,679,9/10/2022,personal care,Linktype,NYCB^U,PO Box 15421,false,10/12/2023
+3,Vinegar - White,79.09,783,4/5/2022,household,Mita,NRZ,Apt 1536,false,3/24/2022
+4,Cheese Cloth No 60,76.65,165,7/7/2022,household,Blogtags,STM,7th Floor,false,7/9/2023
+5,Tomatoes - Roma,80.04,901,8/14/2022,food,Gabcube,GAIA,Room 1349,true,12/12/2023
+6,Beer - Pilsner Urquell,97.09,705,8/11/2023,food,Wordify,ASYS,Suite 93,true,8/30/2023
+7,Wine - Chianti Classico Riserva,18.21,791,1/13/2023,personal care,Jatri,IGLD,PO Box 87871,true,4/6/2022
+8,Nut - Pumpkin Seeds,66.78,695,10/28/2022,personal care,Vimbo,URI,Suite 48,false,9/29/2022
+9,Beef - Tenderloin,91.02,805,12/12/2023,beverages,Voolia,CASI,12th Floor,false,11/20/2022
+10,Mackerel Whole Fresh,76.06,122,4/17/2022,household,Nlounge,ASA,Apt 349,true,3/4/2023
+11,Bread - 10 Grain Parisian,61.75,882,5/27/2022,food,Yakijo,JOE,Room 53,false,12/4/2022
+12,Grapes - Green,73.23,573,8/16/2023,household,Kwimbee,FENG,Suite 26,true,10/15/2022
+13,"C - Plus, Orange",71.82,532,10/25/2022,household,Centimia,WVE,Room 621,false,11/26/2022
+14,Onions - Cooking,47.96,845,3/31/2022,personal care,Cogibox,QIWI,Room 638,true,11/5/2022
+15,Ostrich - Prime Cut,84.14,192,4/20/2022,household,Dazzlesphere,CVV,Apt 212,true,9/9/2022
+16,Wine - Casablanca Valley,6.71,737,8/24/2022,food,Yotz,BLIN          ,PO Box 27070,false,4/6/2023
+17,Muffin Mix - Oatmeal,21.97,696,9/16/2022,personal care,Divanoodle,ROK,Apt 113,false,10/23/2022
+18,"Lamb - Leg, Boneless",18.91,918,1/16/2023,household,Avavee,SIEN,PO Box 41481,false,11/5/2023
+19,"Roe - Lump Fish, Red",27.52,964,12/25/2023,personal care,Cogibox,BAC^D,Apt 1911,false,4/4/2023
+20,"Red Snapper - Fresh, Whole",33.43,224,8/2/2023,household,Quimm,APTS,PO Box 72168,false,9/23/2022
+21,Fond - Chocolate,79.18,831,4/2/2022,beverages,Omba,AMSF,Suite 87,true,1/30/2022
+22,Kiwano,89.2,202,9/19/2022,household,Voolith,DSGX,Room 1530,true,7/18/2022
+23,Curry Powder,50.32,860,10/27/2022,food,Trunyx,GJP,Apt 1831,true,8/24/2023
+24,"Bread - Dark Rye, Loaf",88.83,772,6/15/2023,beverages,Yakijo,AKBA,Suite 46,true,1/7/2023
+25,Bread - Onion Focaccia,61.98,817,10/30/2022,beverages,Bluejam,FLIC,Room 1721,true,6/29/2023
+26,Tomato Puree,52.45,140,11/17/2023,household,Quaxo,PTH,Room 1999,false,12/2/2023
+27,Shrimp - Tiger 21/25,25.31,522,3/11/2023,beverages,Photolist,PRH,Room 720,false,7/28/2023
+28,Beef - Kobe Striploin,48.75,471,7/6/2022,food,Voonix,BCPC,Apt 175,false,6/5/2023
+29,Sea Bass - Fillets,84.07,224,12/21/2023,household,Zava,IBKCP,PO Box 38932,true,11/10/2022
+30,Pork - Ground,20.76,279,7/12/2023,household,Twitternation,ALL,Apt 1842,true,10/28/2023
+31,Remy Red Berry Infusion,60.47,119,12/1/2023,household,Gabtype,RUBI,PO Box 91833,false,4/21/2022
+32,Wine - Kwv Chenin Blanc South,18.87,371,7/31/2023,household,Tagfeed,NLY,Suite 42,true,2/26/2023
+33,Amaretto,28.16,926,8/11/2023,food,Wikizz,MTSL,11th Floor,true,4/19/2022
+34,"Stock - Veal, White",13.09,664,7/12/2022,beverages,Voomm,ANAT,Suite 66,true,4/10/2022
+35,Chocolate - Sugar Free Semi Choc,18.89,945,11/19/2022,beverages,Livefish,AAPL,Room 1882,true,1/25/2023
+36,Beef Wellington,73.88,139,5/21/2023,household,Kimia,TCF,Room 1168,false,2/5/2023
+37,"Soup - Campbells, Cream Of",19.66,488,8/21/2023,personal care,Mynte,XGTI,Suite 1,false,2/4/2023
+38,Blue Curacao - Marie Brizard,50.5,925,3/20/2023,household,Yacero,ECCA,Room 1586,true,11/12/2023
+39,"Apple - Delicious, Red",13.58,719,10/22/2023,food,Twitterbridge,SGMA,Apt 709,false,9/12/2023
+40,Wine - Rosso Del Veronese Igt,12.99,275,4/21/2023,household,Ooba,RSO^A,PO Box 40269,true,5/17/2022
+41,"Juice - Apple, 341 Ml",67.53,860,4/7/2023,personal care,Skidoo,HVT.A,10th Floor,false,7/3/2022
+42,Beans - Green,24.22,421,11/30/2022,personal care,Linkbridge,BABA,Room 18,false,10/6/2022
+43,Muskox - French Rack,18.4,809,1/23/2022,household,Demivee,ANY,PO Box 84776,true,7/18/2022
+44,"Sauce - Gravy, Au Jus, Mix",41.77,77,3/24/2022,food,Latz,STLRW,Suite 23,true,11/29/2023
+45,Tomatoes - Grape,95.95,666,7/25/2022,beverages,Trilith,TQQQ,Apt 913,false,1/16/2022
+46,Wine - Cousino Macul Antiguas,89.87,189,3/20/2022,beverages,Shufflester,L,Suite 35,false,7/14/2023
+47,"Doilies - 8, Paper",32.33,238,7/15/2022,beverages,Tagpad,ORG,18th Floor,true,12/31/2022
+48,Vol Au Vents,48.16,840,7/10/2022,beverages,Quaxo,TDA,17th Floor,true,4/22/2023
+49,Pork - Back Ribs,94.43,300,7/28/2022,personal care,Meezzy,MDGS,Room 1341,false,3/10/2023
+50,Mcgillicuddy Vanilla Schnap,17.52,845,10/4/2022,beverages,Voolia,OBCI,Room 1963,false,1/5/2022
+51,Wine - Carmenere Casillero Del,19.9,910,10/29/2022,personal care,Thoughtworks,CSL,6th Floor,true,1/27/2022
+52,"Salsify, Organic",62.1,422,3/10/2023,food,Youspan,ATAI,6th Floor,false,11/15/2023
+53,Salmon - Sockeye Raw,45.85,795,7/9/2022,beverages,Kamba,EMD,Apt 1624,false,7/21/2023
+54,Nantucket - Carrot Orange,94.38,312,5/6/2023,personal care,Wikivu,PEN,16th Floor,true,4/3/2022
+55,Lumpfish Black,46.22,441,1/6/2023,beverages,Meedoo,SWK,18th Floor,true,9/9/2022
+56,Yoghurt Tubes,79.22,591,3/14/2022,household,Browsetype,IHD,Room 1385,true,2/5/2022
+57,Goat - Whole Cut,90.64,480,4/29/2022,beverages,Riffpedia,TK,19th Floor,false,11/1/2023
+58,"Juice - Grape, White",38.71,252,12/26/2023,food,Skinix,LSXMK,Suite 41,false,7/4/2023
+59,Salt - Table,71.69,781,5/25/2022,personal care,Devify,KSM,Apt 1972,false,11/11/2022
+60,Egg - Salad Premix,14.56,631,9/4/2023,food,Topicblab,ADP,Apt 1763,true,11/2/2022
+61,Beer - Sleemans Honey Brown,95.01,220,6/15/2022,beverages,Eabox,MYI,Suite 23,false,2/21/2022
+62,Kale - Red,84.57,377,4/9/2022,household,Gigazoom,BKSC,PO Box 30469,false,11/19/2023
+63,Goat - Leg,48.05,331,11/25/2023,beverages,Rooxo,TPX,6th Floor,true,6/30/2022
+64,Wine - Domaine Boyar Royal,35.17,503,6/24/2023,household,Eamia,BLBD,Apt 722,true,2/9/2023
+65,Oil - Cooking Spray,90.77,271,4/24/2023,food,Skibox,JPM^A,Room 208,false,12/19/2022
+66,Brandy Apricot,56.87,525,10/2/2023,household,Podcat,GAIN,Apt 242,false,6/4/2023
+67,Honey - Lavender,32.64,189,10/4/2022,beverages,Realbuzz,SALT,Apt 555,false,9/12/2022
+68,Pizza Pizza Dough,75.94,272,9/13/2022,beverages,Kazio,PAY,Suite 22,true,11/6/2022
+69,Currants,18.56,836,12/11/2022,personal care,Wikizz,RLJ,Apt 1284,false,10/16/2023
+70,Lettuce - Boston Bib,41.47,673,11/22/2023,household,Browseblab,WAB,6th Floor,true,8/11/2023
+71,Cheese - Parmigiano Reggiano,77.55,129,6/20/2022,personal care,Nlounge,WF,Apt 642,false,1/20/2023
+72,Yoghurt Tubes,67.39,181,4/21/2023,beverages,Camimbo,HCP,PO Box 8170,false,2/9/2022
+73,Wheat - Soft Kernal Of Wheat,33.26,997,4/10/2022,household,Tekfly,CLDX,Apt 502,false,9/28/2022
+74,Chinese Foods - Chicken Wing,35.25,701,1/26/2023,beverages,Rhynoodle,ADRD,PO Box 38836,true,3/1/2022
+75,Loquat,12.34,73,4/28/2023,beverages,Mymm,PHI,6th Floor,false,12/9/2022
+76,Carbonated Water - White Grape,51.12,901,7/23/2022,food,Rhynyx,LDR,PO Box 26260,false,11/20/2023
+77,Chivas Regal - 12 Year Old,6.84,607,9/4/2022,beverages,Agivu,FET,Suite 25,true,6/22/2022
+78,"Sauce - Bernaise, Mix",42.41,602,8/27/2023,household,Kaymbo,ACM,Apt 1400,true,4/20/2022
+79,"Soup - Campbells, Butternut",50.07,989,1/20/2023,household,Tekfly,SPOK,Room 1087,true,4/26/2022
+80,Apples - Spartan,49.22,440,2/21/2022,personal care,Tazz,LXFT,Room 629,false,6/18/2022
+81,Wasabi Powder,32.99,517,4/30/2022,personal care,Bubbletube,FOXF,Room 1912,false,2/2/2023
+82,Magnotta - Bel Paese White,3.46,786,8/25/2023,beverages,Brightbean,ABR^B,PO Box 374,true,11/18/2022
+83,Beer - Mcauslan Apricot,79.96,948,3/14/2023,personal care,Voomm,CLNS^E,PO Box 65163,false,12/1/2023
+84,Muffin Puck Ww Carrot,26.89,44,3/10/2022,household,Twitterbridge,GAB^H,12th Floor,false,9/6/2022
+85,Chips Potato Salt Vinegar 43g,73.34,148,7/27/2023,food,Demizz,OSK,PO Box 81013,false,5/24/2022
+86,Grapefruit - White,66.27,308,8/23/2022,food,Tazz,IMOS,Apt 78,true,3/7/2022
+87,Kellogs Raisan Bran Bars,24.14,944,8/19/2022,personal care,Centimia,PGLC,4th Floor,true,7/30/2022
+88,Bread - Sour Batard,56.54,439,12/25/2023,food,Mynte,NGHC,Room 1144,false,1/23/2022
+89,Pancetta,50.74,725,2/19/2023,food,Layo,FSFR,Suite 97,false,9/10/2022
+90,Bread Fig And Almond,21.88,25,11/2/2022,beverages,Yozio,CECO,Suite 18,true,4/14/2023
+91,Cheese - Victor Et Berthold,84.56,681,9/4/2022,personal care,Devbug,TU,Apt 893,false,6/3/2023
+92,Chips Potato Reg 43g,46.46,202,6/24/2023,food,Yakitri,VIVE,PO Box 86357,true,7/3/2023
+93,"Tomatoes - Plum, Canned",62.51,129,12/10/2022,beverages,Skipfire,HIX,PO Box 18008,false,2/1/2023
+94,"Crab - Back Fin Meat, Canned",19.02,80,1/25/2023,beverages,Jabberbean,BMI,9th Floor,false,10/15/2022
+95,"Leeks - Baby, White",45.96,979,2/20/2023,food,Myworks,LAYN,PO Box 45491,true,1/9/2023
+96,Jello - Assorted,54.59,752,7/30/2022,personal care,Eidel,KALU,16th Floor,true,12/29/2022
+97,Fudge - Chocolate Fudge,52.94,359,5/30/2022,beverages,Trudeo,FUSB,Apt 528,true,7/7/2022
+98,Cheese - La Sauvagine,24.45,164,8/16/2023,food,Abatz,BTU,PO Box 70979,true,1/13/2022
+99,Beans - Fine,88.78,478,8/18/2022,food,Linklinks,JAZZ,Suite 59,true,8/17/2023
+100,Snapple - Mango Maddness,36.22,147,4/26/2022,household,Talane,GSH,Room 1899,false,2/7/2023
+101,Beans - French,89.54,989,12/1/2022,beverages,Quamba,MTRX,Room 1602,true,11/11/2023
+102,Chicken - Livers,32.52,107,10/2/2022,household,Kimia,GPACW,Apt 1948,false,12/16/2022
+103,Uniform Linen Charge,76.96,17,9/29/2022,food,Yakidoo,VVC,Suite 35,true,3/1/2022
+104,"Nut - Peanut, Roasted",40.36,451,9/23/2022,personal care,Buzzdog,ARMK,Suite 88,true,3/11/2023
+105,Potatoes - Mini White 3 Oz,81.91,852,3/15/2023,beverages,Topicblab,IMAX,Suite 68,true,2/25/2022
+106,Wild Boar - Tenderloin,6.0,467,11/20/2022,household,Mydo,CLACU,4th Floor,true,6/13/2022
+107,Sauce - Fish 25 Ozf Bottle,14.79,969,9/20/2022,household,Yodoo,PSA^Z,Room 1187,true,7/7/2023
+108,"Cake Circle, Foil, Scallop",93.44,60,2/11/2023,personal care,Wordify,PNRA,Apt 1948,false,11/13/2022
+109,"Juice - Pineapple, 341 Ml",2.38,358,12/2/2023,personal care,Browsetype,MDT,Room 576,true,5/23/2023
+110,"Oranges - Navel, 72",73.75,159,8/26/2023,beverages,Oba,DRIOW,Suite 9,true,8/26/2023
+111,Goat - Whole Cut,94.78,651,10/8/2023,food,Zava,SFE,Apt 465,false,1/18/2023
+112,Lighter - Bbq,23.32,482,1/5/2022,beverages,Izio,EOCC,Room 992,false,6/7/2022
+113,Oil - Macadamia,7.07,421,4/22/2023,food,Brainverse,TXN,Room 896,false,2/9/2022
+114,"Beer - Alexander Kieths, Pale Ale",77.44,516,6/11/2023,beverages,Shufflester,FORK,Room 1539,true,9/8/2022
+115,Chips Potato Salt Vinegar 43g,66.16,862,5/26/2023,household,Gigazoom,ESTE,PO Box 50061,false,1/23/2023
+116,Puree - Guava,70.98,664,8/19/2022,beverages,Livepath,MMDMU,PO Box 15922,false,12/19/2023
+117,Clam - Cherrystone,70.12,663,3/25/2022,food,Devify,FEM,Suite 21,false,8/15/2022
+118,Cheese - Cheddar With Claret,30.81,150,12/6/2023,beverages,Pixoboo,BORN,PO Box 85584,true,8/6/2022
+119,Cheese - Bocconcini,60.4,149,8/8/2022,beverages,Chatterbridge,SAR,15th Floor,true,10/30/2022
+120,Snapple - Iced Tea Peach,13.93,574,7/20/2023,personal care,Innotype,UMH^B,8th Floor,true,2/18/2023
+121,"Veal - Inside, Choice",23.07,680,7/15/2022,household,Npath,QRHC,PO Box 53351,false,4/23/2022
+122,"Sprite, Diet - 355ml",13.51,190,7/14/2023,personal care,Avamba,PRE^H,Suite 16,true,5/4/2023
+123,Bread - Calabrese Baguette,84.23,872,12/1/2023,household,Zoozzy,SRNE,PO Box 97185,false,9/21/2022
+124,Tequila Rose Cream Liquor,92.22,479,6/13/2023,household,Photolist,ITCI,13th Floor,false,6/6/2023
+125,Puree - Mocha,84.05,201,2/26/2023,personal care,Thoughtmix,GLUU,Suite 54,true,10/16/2023
+126,"Beans - Fava, Canned",74.5,640,4/24/2023,beverages,Topicstorm,SNGXW,PO Box 93090,false,4/7/2022
+127,Cheese - Mozzarella,46.87,581,8/3/2022,beverages,Cogidoo,MSD,Room 650,true,9/14/2022
+128,"Sauce - Soya, Light",79.36,938,2/16/2022,food,Quire,CYRX,Suite 31,false,2/2/2023
+129,Wine - Two Oceans Sauvignon,68.16,887,3/4/2022,food,Topicshots,THR,Apt 745,true,11/4/2023
+130,Capers - Pickled,99.19,399,1/31/2023,food,Blognation,CPIX,11th Floor,true,10/11/2023
+131,Tea - Decaf 1 Cup,10.93,571,6/9/2023,household,Myworks,DXC,PO Box 18675,true,6/10/2023
+132,Muffin Mix - Banana Nut,99.5,199,1/9/2022,beverages,Browsebug,NHLD,PO Box 94852,true,2/2/2022
+133,"Yogurt - Peach, 175 Gr",24.19,798,4/20/2022,household,Thoughtsphere,COF,PO Box 86156,false,3/6/2022
+134,"Pasta - Lasagne, Fresh",94.87,667,12/1/2022,personal care,Izio,PFBX,Apt 580,false,2/17/2022
+135,Tea Peppermint,43.26,793,5/14/2023,beverages,Gevee,FSC,Room 1643,true,10/4/2022
+136,Bar - Sweet And Salty Chocolate,25.4,798,7/14/2023,food,Gabcube,MTFB,Suite 60,true,8/22/2022
+137,"Mushroom - Shitake, Fresh",50.77,470,3/10/2022,food,Blogpad,ATOM,Suite 52,false,3/17/2023
+138,Flour - All Purpose,87.87,315,12/23/2022,beverages,Babbleblab,COMM,Apt 1075,true,7/27/2022
+139,Milk - Homo,13.11,176,11/22/2022,household,Babbleset,CPLP,PO Box 2701,false,12/1/2023
+140,Cocoa Powder - Natural,53.95,274,3/31/2022,food,Flashset,COVS,Apt 1031,false,7/27/2022
+141,"Pepper - Paprika, Hungarian",6.24,110,5/31/2022,food,Muxo,NIE,17th Floor,false,1/9/2022
+142,Cake - Box Window 10x10x2.5,66.85,150,9/25/2023,beverages,Quatz,FANH,Suite 69,true,3/2/2023
+143,Extract - Lemon,35.98,603,10/13/2023,personal care,Gevee,GCH,Suite 25,false,6/24/2022
+144,Ginger - Fresh,74.27,742,7/9/2022,personal care,Buzzbean,FFG,Suite 1,false,8/19/2022
+145,Carbonated Water - White Grape,4.9,672,9/1/2022,food,Photojam,HBANP,Apt 1852,true,2/28/2022
+146,Flour - Pastry,70.0,622,6/11/2022,household,Riffwire,BNSO,Room 707,true,12/11/2023
+147,Broom And Broom Rack White,6.48,462,9/21/2022,food,Twiyo,SAH,Apt 606,true,8/28/2023
+148,Table Cloth 62x120 Colour,1.61,391,5/24/2023,personal care,Geba,AEP,6th Floor,false,4/26/2022
+149,Beer - Mcauslan Apricot,19.89,979,2/17/2022,personal care,Voomm,NODK,12th Floor,false,1/23/2022
+150,Peach - Fresh,19.45,1000,7/17/2023,household,Pixope,TY,8th Floor,true,6/12/2023
+151,Fennel - Seeds,20.15,21,9/6/2022,personal care,Oyoloo,USA,Suite 55,true,11/5/2023
+152,Instant Coffee,68.76,847,10/12/2022,beverages,Yotz,VGSH,Room 1963,false,1/7/2023
+153,"Bread - Rolls, Rye",62.49,572,10/6/2022,household,Brainverse,RHI,Apt 304,true,1/9/2022
+154,Muffin Carrot - Individual,91.94,306,3/20/2023,personal care,Innotype,CORR,PO Box 77369,true,5/27/2022
+155,Roe - Flying Fish,22.33,644,1/9/2022,personal care,Rhynoodle,ATXI,Apt 83,false,8/30/2023
+156,Bread - 10 Grain Parisian,18.94,289,8/8/2023,household,Babbleopia,LAWS,1st Floor,false,9/18/2022
+157,Sauce Bbq Smokey,78.59,814,6/23/2022,household,Edgeblab,AKAM,Room 1548,true,11/2/2023
+158,Veal - Ground,79.68,901,2/4/2022,beverages,Vipe,CW,Apt 1696,true,12/8/2022
+159,Wiberg Cure,93.33,41,11/24/2022,personal care,JumpXS,WVVI,Suite 71,false,9/22/2023
+160,"Bread - Pullman, Sliced",24.02,12,7/28/2023,household,Riffpath,RWLK,Room 905,true,12/15/2022
+161,Yoplait - Strawbrasp Peac,54.86,263,7/29/2023,food,Realpoint,ASND,Apt 132,false,6/25/2022
+162,Juice - Apple Cider,36.21,475,10/23/2023,food,Kwilith,NEE^G,PO Box 54942,false,6/19/2022
+163,Juice - Apple Cider,11.43,961,3/11/2022,personal care,Pixope,HALO,Suite 75,true,9/25/2023
+164,Wine - Zonnebloem Pinotage,79.88,618,10/3/2022,food,Tanoodle,EAI,PO Box 94791,false,1/20/2023
+165,Meldea Green Tea Liquor,90.54,769,3/15/2022,household,Quire,CE,Room 184,true,5/6/2022
+166,Peas Snow,11.92,270,8/14/2023,household,Wordpedia,ATEC,PO Box 83897,false,6/7/2022
+167,Cheese - Feta,64.36,801,3/5/2022,beverages,Youbridge,HIVE,13th Floor,true,7/23/2023
+168,Pork Loin Bine - In Frenched,48.18,348,11/27/2023,beverages,Skalith,AEL,PO Box 18732,false,4/5/2023
+169,"Oregano - Dry, Rubbed",13.0,933,12/11/2023,beverages,Aivee,RGCO,PO Box 79847,false,12/29/2022
+170,"Mushroom - Trumpet, Dry",74.26,969,9/14/2023,household,Quamba,SITO,Suite 98,true,8/21/2023
+171,Cookie - Dough Variety,13.34,89,4/25/2023,beverages,Brightbean,BMY,8th Floor,false,4/10/2022
+172,Vinegar - White,44.59,174,6/26/2022,beverages,Photobean,PRGX,PO Box 77665,false,3/9/2022
+173,Tomatoes,41.25,603,6/7/2022,food,Avavee,PICO,9th Floor,true,7/25/2022
+174,"Tortillas - Flour, 8",76.61,227,7/3/2022,food,Kazio,ZPIN,PO Box 2375,false,10/25/2022
+175,Longos - Lasagna Veg,65.88,488,4/7/2023,household,Twitterbeat,GPP,Suite 83,false,11/27/2023
+176,Wine - Montecillo Rioja Crianza,79.15,471,2/1/2022,personal care,Tagtune,GAM^B,PO Box 33272,false,9/28/2023
+177,Vinegar - White,86.21,994,10/10/2023,personal care,Blogtag,QCRH,4th Floor,false,12/8/2023
+178,Red Pepper Paste,25.09,52,2/4/2023,personal care,Gabtune,CTRE,Room 1013,false,2/15/2022
+179,"Bread - Rolls, Rye",36.4,980,5/7/2022,food,Chatterpoint,PHO,Apt 208,false,5/4/2023
+180,Saskatoon Berries - Frozen,99.57,101,11/2/2023,household,Kwideo,AGEN,9th Floor,false,7/7/2022
+181,Everfresh Products,40.76,480,10/8/2022,household,Eayo,ETG,Room 698,false,1/23/2022
+182,Tamarillo,95.29,360,11/10/2022,food,Devbug,FGL,Apt 1875,true,4/18/2022
+183,Water - San Pellegrino,36.93,77,1/11/2023,beverages,Rooxo,RICE,5th Floor,true,7/24/2022
+184,Langers - Ruby Red Grapfruit,82.52,578,10/10/2022,food,Blogpad,ATI,PO Box 89967,false,9/29/2022
+185,White Baguette,22.26,227,2/1/2022,personal care,Photobean,ZAIS,3rd Floor,false,10/8/2023
+186,Pepper - Sorrano,35.61,531,11/23/2022,food,Centizu,NICE,Suite 48,true,7/4/2022
+187,Creme De Cacao Mcguines,3.67,303,4/24/2022,household,Myworks,CJ,Apt 695,true,10/4/2023
+188,"Sauce - Bernaise, Mix",78.68,356,4/20/2023,beverages,Twiyo,FFA,5th Floor,false,3/26/2022
+189,Apricots - Dried,29.48,979,7/1/2023,food,Roombo,PRLB,PO Box 43829,true,1/24/2022
+190,"Tortillas - Flour, 12",96.34,769,2/20/2022,beverages,Shufflester,DB,Apt 1706,false,8/8/2022
+191,Turkey - Ground. Lean,76.32,337,6/16/2023,beverages,Dabjam,DPLO,9th Floor,false,10/25/2022
+192,"Salmon - Atlantic, Fresh, Whole",4.81,743,11/22/2023,food,Skiba,FRC^G,14th Floor,true,11/14/2022
+193,Clam - Cherrystone,50.41,381,2/6/2022,household,Skalith,CGI,Room 743,false,3/14/2023
+194,Muffin Mix - Raisin Bran,26.86,543,7/24/2022,household,Pixonyx,NFEC,PO Box 93400,true,11/2/2023
+195,Wild Boar - Tenderloin,92.85,684,9/4/2022,household,Buzzshare,LXP,Apt 470,true,7/30/2022
+196,Broom Handle,8.39,940,6/27/2023,personal care,Jayo,JRJC,Apt 1657,true,11/27/2022
+197,Truffle - Whole Black Peeled,15.61,252,9/4/2022,beverages,Fatz,OCN,16th Floor,false,1/19/2023
+198,Sobe - Berry Energy,13.26,924,1/20/2022,beverages,Gevee,BMTC,Room 11,true,9/12/2023
+199,"Pasta - Canelloni, Single Serve",18.56,275,11/7/2023,personal care,Thoughtmix,VLT,11th Floor,false,8/6/2023
+200,"Beans - Kidney, Red Dry",97.75,950,7/22/2022,household,Twinder,GUT,PO Box 99445,true,9/7/2022
+201,Cornflakes,92.71,256,5/22/2023,food,Yodoo,PPC,PO Box 15773,false,2/4/2022
+202,Wine - Jackson Triggs Okonagan,37.72,810,5/4/2023,personal care,Topiclounge,JBSS,Apt 1234,true,10/3/2022
+203,Chocolate - Milk,54.44,327,11/27/2023,food,Edgepulse,MYRG,Apt 981,true,4/1/2022
+204,"Vodka - Hot, Lnferno",14.48,910,7/19/2022,household,Tekfly,KIM^K,13th Floor,false,5/15/2023
+205,Versatainer Nc - 9388,97.38,889,11/2/2023,personal care,Eimbee,LTXB,Suite 17,false,8/31/2022
+206,Cherries - Frozen,82.05,165,1/18/2022,beverages,Skiptube,SYNL,Apt 1570,true,9/7/2023
+207,Lemon Balm - Fresh,87.14,732,9/16/2023,personal care,Lazzy,AMH^D,Suite 2,false,6/2/2022
+208,Pork - Backfat,87.43,545,9/12/2022,beverages,Avavee,CPSH,Suite 63,false,3/16/2023
+209,Sugar - Palm,19.84,633,6/18/2023,food,Ntags,JGH,PO Box 58230,false,7/17/2022
+210,Sun - Dried Tomatoes,65.43,284,7/10/2023,food,Jaxworks,WALA,Apt 967,true,12/5/2023
+211,Chivas Regal - 12 Year Old,52.84,983,3/9/2023,beverages,Voolith,SLM,PO Box 46957,true,7/26/2022
+212,Salt And Pepper Mix - Black,37.94,209,4/9/2022,household,Janyx,WASH,Room 1150,true,10/2/2023
+213,Tilapia - Fillets,80.91,302,11/16/2023,food,Agimba,VVUS,Apt 643,true,5/16/2023
+214,Eggs - Extra Large,17.88,281,7/7/2022,personal care,Yodo,XL,Room 1123,false,2/18/2022
+215,"Bread - Sticks, Thin, Plain",89.93,143,2/18/2023,food,Photobug,NPV,Apt 1002,true,12/8/2023
+216,"Cherries - Maraschino,jar",36.42,600,7/5/2022,household,Twitterwire,MMDM,Room 364,false,5/8/2023
+217,Towel Multifold,44.9,169,9/15/2023,personal care,Rhyzio,AGC,Apt 133,true,6/25/2023
+218,Anchovy In Oil,62.01,572,6/3/2023,household,Babblestorm,INCY,Suite 75,true,12/21/2023
+219,"Beans - Black Bean, Preserved",48.79,834,3/6/2022,beverages,Oba,OBAS,2nd Floor,false,3/18/2022
+220,"Quail - Whole, Bone - In",89.23,737,1/1/2023,personal care,Photojam,MDCO,Room 1578,true,7/19/2022
+221,Bread - Hot Dog Buns,85.96,192,2/13/2023,food,Minyx,AIQ,13th Floor,true,7/1/2023
+222,Soap - Mr.clean Floor Soap,35.52,954,5/2/2023,beverages,Oyope,DTYL,19th Floor,true,3/20/2022
+223,Teriyaki Sauce,47.87,158,1/15/2023,food,Podcat,HVT.A,Room 1735,false,5/30/2022
+224,Lamb - Shanks,7.43,776,1/23/2023,beverages,Twimm,NVCR,2nd Floor,false,4/21/2022
+225,The Pop Shoppe - Black Cherry,23.9,632,4/20/2022,household,BlogXS,PERF,Room 439,false,2/1/2023
+226,Steam Pan - Half Size Deep,38.01,432,12/8/2023,household,Edgeblab,GOOGL,Apt 1284,true,4/19/2022
+227,Wine - Guy Sage Touraine,14.01,917,11/20/2023,household,Centizu,MNOV,Apt 110,true,1/28/2022
+228,Wine - Rosso Toscano Igt,52.65,519,12/10/2023,personal care,Blogtag,MTB.WS,Room 574,false,12/8/2023
+229,Sauce - Alfredo,39.41,979,2/19/2022,beverages,Demivee,TBI,Room 1606,false,5/23/2023
+230,Tart - Raisin And Pecan,33.69,975,10/9/2023,beverages,Tekfly,EOCC,Apt 227,true,3/26/2022
+231,Swiss Chard,35.83,952,6/6/2022,food,Oyondu,URGN,PO Box 56255,false,6/29/2022
+232,Kirsch - Schloss,56.61,244,11/29/2022,beverages,Quimba,MBRX,Apt 1759,false,4/6/2023
+233,Sterno - Chafing Dish Fuel,41.17,750,7/10/2023,household,Viva,TIER,14th Floor,false,10/17/2023
+234,Galliano,1.68,495,12/19/2022,personal care,Zoomlounge,TWOU,Apt 1053,false,12/29/2023
+235,"Pork - Bacon, Sliced",92.66,512,3/20/2023,personal care,Centidel,HEES,17th Floor,false,10/13/2022
+236,"Soup - Beef Conomme, Dry",23.93,677,7/26/2022,food,Trudeo,GLP,Apt 1035,true,2/22/2022
+237,Ostrich - Fan Fillet,62.91,338,10/28/2023,household,Thoughtworks,ZBH,Suite 7,false,5/14/2022
+238,Duck - Whole,31.48,71,7/13/2023,household,Jabbertype,TCO^J,Room 1223,false,12/6/2023
+239,Pears - Bosc,26.43,738,7/10/2023,beverages,Voonix,FCH^A,13th Floor,true,6/29/2023
+240,Bread Fig And Almond,44.97,587,5/14/2022,personal care,Jetpulse,CNQ,PO Box 25033,true,9/15/2022
+241,"Spoon - Soup, Plastic",41.45,155,2/17/2023,household,Skimia,SVVC,Suite 62,false,6/15/2022
+242,Sour Puss Sour Apple,91.8,578,8/24/2023,personal care,Quire,MPWR,9th Floor,false,10/30/2023
+243,Extract - Raspberry,91.47,465,2/22/2022,personal care,Devpoint,IPL^D,Suite 66,false,1/6/2023
+244,"Cake Circle, Foil, Scallop",90.29,785,7/4/2022,food,Ooba,CHSCM,Apt 485,false,8/10/2023
+245,Sprouts - Peppercress,31.6,982,1/24/2023,beverages,Zazio,PGR,Room 1447,true,3/1/2022
+246,Blue Curacao - Marie Brizard,65.23,492,8/21/2023,personal care,Skinte,AIZ,Apt 683,false,2/10/2022
+247,Garlic - Peeled,25.77,630,11/1/2023,household,Bubbletube,MOH,PO Box 73002,true,12/20/2023
+248,Cornflakes,36.97,675,7/4/2022,household,Thoughtsphere,VBND,Apt 1525,true,8/12/2023
+249,"Beef - Rib Roast, Capless",9.82,932,9/5/2022,beverages,Livefish,ARTX,PO Box 53138,true,1/20/2022
+250,Beef - Rib Eye Aaa,1.53,520,11/6/2023,food,Browseblab,BRSS,19th Floor,false,6/24/2023
+251,Pie Filling - Apple,58.85,559,7/31/2022,personal care,Rhybox,BTT,Room 1962,true,6/7/2022
+252,Cheese - Le Cru Du Clocher,83.81,835,10/7/2022,household,Chatterpoint,ARNC^B,Suite 40,false,11/4/2023
+253,Creme De Menth - White,81.36,164,11/15/2022,beverages,Voomm,MEOH,Suite 54,false,12/1/2022
+254,Chocolate - Mi - Amere Semi,92.36,679,9/7/2023,household,Mybuzz,ALIM,Room 415,true,12/22/2023
+255,Radish,75.61,820,8/28/2022,household,Izio,MBI,PO Box 21771,false,1/12/2022
+256,Apple - Northern Spy,2.26,666,7/9/2023,food,Thoughtblab,OGXI,Suite 53,true,2/3/2022
+257,Croissants Thaw And Serve,56.56,163,10/2/2022,household,Skilith,TAHO,Room 1238,false,9/20/2023
+258,Bread Foccacia Whole,53.52,747,11/22/2023,food,Jetwire,ADOM,Suite 68,true,10/21/2022
+259,Sugar - Icing,20.25,44,10/4/2022,household,Mudo,MB,Suite 25,true,5/4/2022
+260,"Carrots - Purple, Organic",69.9,889,4/24/2022,food,Jaxnation,NUVA,Room 1326,true,11/8/2023
+261,Soup - Campbells Mushroom,40.7,772,7/21/2022,household,Mydo,BSRR,Apt 855,true,10/17/2022
+262,Cookie Dough - Double,21.9,191,6/10/2023,household,Linklinks,AGM^B,Suite 77,true,7/26/2022
+263,Danishes - Mini Raspberry,15.28,1000,3/7/2023,beverages,Thoughtstorm,BELFB,Apt 1930,true,10/12/2022
+264,Cheese - Grana Padano,16.65,436,4/16/2023,beverages,Twitterbeat,WYIGU,12th Floor,true,12/13/2022
+265,Chef Hat 25cm,94.23,484,1/5/2022,household,Devpoint,ZG,Apt 1169,true,11/10/2023
+266,Sage - Ground,71.41,249,4/6/2023,beverages,Voolia,ANET,17th Floor,true,10/8/2023
+267,Pomello,12.69,872,9/21/2023,beverages,Leenti,PCK,Suite 61,true,12/20/2023
+268,Crawfish,3.11,709,8/15/2022,personal care,Oyonder,SYBT,Suite 95,true,7/24/2022
+269,Salami - Genova,85.49,77,8/22/2022,personal care,Skiptube,KTH,19th Floor,false,3/3/2022
+270,Fond - Neutral,49.45,19,1/20/2023,personal care,Brightdog,TLLP,Suite 75,true,4/30/2023
+271,Plate Foam Laminated 9in Blk,38.85,555,1/6/2022,food,Eadel,GATX,Room 349,true,1/1/2022
+272,Wine - Sawmill Creek Autumn,85.07,892,4/9/2022,food,Devpulse,HYH,Room 1636,false,10/11/2022
+273,Vinegar - Tarragon,26.85,863,1/1/2022,food,Gabtype,VAC,Suite 66,true,11/7/2022
+274,"Wine - Magnotta, White",45.5,309,2/17/2022,beverages,Cogidoo,AGNCP,11th Floor,false,11/28/2022
+275,Sprouts - Alfalfa,9.22,433,9/30/2022,beverages,Katz,EVR,PO Box 81672,false,7/6/2023
+276,Spinach - Baby,72.53,432,7/7/2023,beverages,Quaxo,EQFN,9th Floor,true,3/6/2022
+277,Appetizer - Mango Chevre,16.9,126,10/15/2022,food,Flipopia,RMAX,Apt 634,true,12/17/2023
+278,"Turkey - Breast, Bone - In",54.16,594,7/20/2023,personal care,Fanoodle,VVC,Apt 1373,true,10/11/2023
+279,"Wine - White, Antinore Orvieto",95.68,329,7/17/2022,household,Quaxo,MFM,10th Floor,true,11/5/2023
+280,Mushroom - Porcini Frozen,84.62,402,9/14/2023,food,Flashdog,AVB,PO Box 28444,true,1/30/2023
+281,Orange - Tangerine,96.79,416,10/18/2022,household,Lazz,PYDS,Apt 1376,true,12/4/2023
+282,Potatoes - Mini White 3 Oz,65.3,45,12/19/2023,personal care,Voonte,FSD,PO Box 6460,false,11/20/2022
+283,Icecream - Dstk Cml And Fdg,22.42,488,10/24/2022,food,Cogilith,FTFT,Room 723,true,5/16/2023
+284,"Water - Mineral, Natural",14.17,536,9/17/2023,beverages,Kamba,UPLD,20th Floor,true,7/26/2023
+285,Zucchini - Yellow,48.71,756,3/29/2022,food,Voolith,CEE,Room 603,false,6/2/2023
+286,Veal - Nuckle,73.47,236,1/10/2022,food,Photobug,RATE,Suite 33,true,4/2/2023
+287,Anchovy In Oil,98.84,285,6/26/2023,food,Browsebug,UNTY,PO Box 73632,false,1/24/2023
+288,English Muffin,22.09,977,10/4/2022,household,Buzzster,NVO,PO Box 68128,false,4/14/2022
+289,Juice - Lime,83.83,291,11/29/2022,household,Skibox,NCS,Suite 33,false,12/16/2023
+290,"Tabasco Sauce, 2 Oz",78.34,950,10/11/2023,beverages,Avavee,DRI,Apt 1864,false,3/24/2023
+291,"Soup - Beef, Base Mix",1.42,57,2/5/2022,personal care,Viva,PDVW,PO Box 87666,false,11/29/2022
+292,"Tuna - Canned, Flaked, Light",9.07,426,5/20/2023,personal care,Cogidoo,IGR,Room 228,true,10/31/2022
+293,Pectin,51.92,405,4/27/2023,personal care,Babblestorm,TEF,Room 1725,true,5/24/2022
+294,Bread - Kimel Stick Poly,67.02,986,2/16/2023,food,Tazzy,REXR^A,Room 1792,false,1/27/2023
+295,Cake - French Pear Tart,68.3,699,10/12/2022,food,Skinte,CVV,Apt 1511,false,1/23/2023
+296,Cheese - Asiago,68.99,569,9/21/2022,household,Wikibox,CYCC,Suite 88,true,5/29/2023
+297,Wine - Balbach Riverside,48.39,201,9/4/2023,beverages,Topiclounge,JCTCF,PO Box 58920,false,9/22/2022
+298,Wine - German Riesling,78.62,834,9/27/2023,household,Twimm,AGO,Suite 15,false,8/27/2023
+299,Ecolab - Hobart Upr Prewash Arm,54.36,175,7/11/2022,food,Blogtags,DS^B,Suite 72,true,7/4/2022
+300,Sambuca Cream,36.17,144,11/30/2023,food,Blogtags,VOXX,Apt 691,true,1/5/2023
+301,"Yogurt - Raspberry, 175 Gr",44.27,693,8/25/2023,household,Youopia,MFIN,Apt 1193,true,8/23/2023
+302,Red Currants,84.76,327,11/19/2023,beverages,Feedfire,CTAA,Suite 84,false,7/14/2022
+303,Wasabi Paste,66.75,450,2/2/2023,household,Skyba,MTD,Apt 1655,true,3/29/2022
+304,"Lamb - Leg, Boneless",2.45,608,1/20/2023,personal care,Vimbo,NATH,Apt 1432,true,3/28/2023
+305,Amarula Cream,99.44,805,8/17/2022,food,Jamia,GPE^A,Suite 57,true,11/12/2022
+306,Syrup - Pancake,98.78,64,4/14/2023,household,Demimbu,BNTCW,Suite 73,false,12/7/2023
+307,Lettuce - California Mix,60.84,208,7/14/2023,food,Flashset,CPAH,Room 1958,true,4/9/2023
+308,Tart - Butter Plain Squares,71.35,284,1/29/2022,food,Brainbox,WU,7th Floor,false,11/17/2022
+309,"Hickory Smoke, Liquid",55.97,398,7/5/2023,beverages,Buzzshare,CAI,13th Floor,false,3/1/2022
+310,Sauce - Alfredo,54.13,153,3/15/2023,personal care,Kazu,SRAX,PO Box 71892,false,5/4/2023
+311,Soho Lychee Liqueur,5.91,284,2/1/2023,food,Tekfly,DDS,Suite 9,true,12/8/2023
+312,Green Tea Refresher,14.82,241,2/7/2022,food,Edgeclub,PZE,6th Floor,true,3/3/2022
+313,Wine - Maipo Valle Cabernet,32.63,466,11/19/2022,food,Kazio,CIM,Suite 85,true,10/23/2023
+314,Garlic,5.15,530,10/17/2023,personal care,Jaxworks,UNB,2nd Floor,false,4/3/2022
+315,"Lamb - Loin, Trimmed, Boneless",93.58,1000,7/28/2022,personal care,Babbleblab,TUSA,Apt 1323,true,3/26/2022
+316,Spinach - Packaged,55.09,455,10/15/2022,personal care,Wikivu,JHS,PO Box 77698,false,5/28/2022
+317,Tandoori Curry Paste,4.03,587,5/30/2023,beverages,JumpXS,CTRE,Apt 1184,true,8/6/2023
+318,"Stock - Beef, White",51.41,232,7/13/2022,household,Fadeo,SGU,16th Floor,true,6/14/2022
+319,V8 - Berry Blend,34.99,817,2/1/2023,household,Bubbletube,MYRG,Apt 1794,false,9/11/2022
+320,Sausage - Breakfast,55.73,864,6/7/2023,beverages,Abata,DATA,Room 1758,false,12/3/2022
+321,Rice - Long Grain,26.45,405,7/17/2023,food,Teklist,AMTX,Suite 60,false,12/19/2022
+322,Cookie Chocolate Chip With,52.99,647,7/4/2023,household,Oyonder,MYD,2nd Floor,true,7/22/2022
+323,Wine La Vielle Ferme Cote Du,46.94,375,7/26/2023,household,Devbug,CVLY,PO Box 54380,true,9/26/2022
+324,Ginger - Crystalized,73.34,251,4/5/2022,beverages,Quire,ECCZ,Apt 1690,true,8/1/2023
+325,Vol Au Vents,69.07,703,9/23/2023,personal care,Feedbug,MRAM,Suite 54,true,5/29/2022
+326,Pepper - Pablano,55.93,409,10/28/2022,beverages,Yodoo,NVGS,PO Box 85240,false,11/9/2022
+327,Persimmons,12.32,651,7/31/2022,household,Skyba,RELV,PO Box 29668,false,10/2/2023
+328,Pie Shells 10,91.66,328,11/11/2022,beverages,Layo,SNR,6th Floor,true,10/11/2022
+329,Sausage - Andouille,65.45,595,5/5/2023,food,Meejo,NGVT,Suite 19,false,7/27/2023
+330,Bagel - Whole White Sesame,80.7,135,9/26/2022,personal care,Bluezoom,SCHL,15th Floor,false,9/10/2023
+331,Sauce - Hoisin,7.68,505,2/28/2022,personal care,Reallinks,MS^K,Suite 7,true,7/11/2022
+332,Numi - Assorted Teas,87.06,368,7/5/2023,food,Zoombox,BAM,Apt 1015,false,6/7/2023
+333,Vegetable - Base,59.95,1000,6/28/2023,food,Bubbletube,CPF,Suite 50,false,4/2/2022
+334,Lettuce - Boston Bib,14.03,327,8/28/2022,food,Leenti,HOS,Suite 85,true,10/30/2022
+335,Coffee Cup 16oz Foam,70.11,683,4/30/2022,food,Twitterlist,EVA,Suite 31,false,11/23/2022
+336,Bandage - Flexible Neon,28.42,322,2/19/2022,personal care,Ozu,FLC,Suite 79,false,12/19/2022
+337,Wasabi Powder,9.44,453,12/7/2023,food,Pixope,LYV,Room 1173,true,1/18/2022
+338,Beets,49.19,3,10/2/2022,food,Yombu,WM,Apt 495,false,9/23/2023
+339,Syrup - Monin - Passion Fruit,54.4,467,12/8/2022,beverages,Topdrive,ZIONZ,Room 479,false,12/9/2022
+340,Nut - Macadamia,43.78,545,3/15/2023,household,Muxo,FMI,PO Box 67410,true,3/24/2023
+341,Meldea Green Tea Liquor,92.35,725,5/24/2023,personal care,Yacero,ITEK,Apt 656,false,10/21/2023
+342,Bay Leaf,69.56,860,11/10/2023,beverages,Yacero,FGBI,Apt 1986,true,9/13/2022
+343,Icecream Cone - Areo Chocolate,88.27,59,8/9/2023,food,Youbridge,EXPR,Apt 456,false,4/6/2023
+344,Lobster - Cooked,85.23,354,7/24/2023,personal care,Fliptune,ANAT,16th Floor,false,1/25/2023
+345,Beans - Fava Fresh,96.24,384,6/15/2023,beverages,Aivee,NTB,PO Box 83708,true,1/11/2022
+346,"Pasta - Bauletti, Chicken White",79.23,226,1/15/2023,beverages,Gigabox,RSPP,Suite 70,false,11/1/2022
+347,Creme De Banane - Marie,75.9,265,11/12/2023,household,Voomm,SNV,PO Box 36495,true,10/26/2022
+348,Tart - Lemon,86.13,819,11/26/2022,beverages,Quinu,PPBI,Room 932,false,11/19/2023
+349,"Lemonade - Black Cherry, 591 Ml",99.59,878,3/23/2022,food,Fatz,OXBR,Room 22,false,5/3/2023
+350,Sea Bass - Whole,38.73,404,9/14/2022,beverages,Jaloo,CAJ,Suite 47,true,6/4/2023
+351,Tomatoes Tear Drop Yellow,64.13,63,5/19/2023,food,Aimbo,DHIL,Apt 103,false,5/7/2023
+352,Chinese Foods - Chicken Wing,42.54,271,1/6/2023,personal care,Youspan,AVP,PO Box 95748,false,8/14/2022
+353,Rambutan,29.96,404,2/2/2023,food,Twitterbeat,OVLY,Apt 266,false,4/21/2022
+354,"Shrimp - 16/20, Iqf, Shell On",83.23,99,8/31/2022,beverages,Skaboo,GLOG^A,Apt 848,true,4/13/2022
+355,Truffle Cups Green,64.33,11,8/28/2022,food,Dabvine,SGMO,Suite 39,false,8/14/2023
+356,"Veal - Round, Eye Of",10.07,896,6/3/2023,personal care,Zooxo,CNI,4th Floor,true,7/2/2022
+357,Carrots - Jumbo,75.13,893,3/23/2023,beverages,Fanoodle,PHO,Room 410,false,10/21/2023
+358,"Juice - Apple, 500 Ml",24.21,784,5/1/2022,beverages,Roombo,NFLX,Room 855,false,3/25/2023
+359,Sorrel - Fresh,69.56,494,10/7/2023,beverages,Zoonder,LTM,Room 1666,false,6/26/2022
+360,Spring Roll Veg Mini,40.73,872,8/3/2023,household,Realpoint,HY,20th Floor,false,4/13/2022
+361,Island Oasis - Mango Daiquiri,60.64,178,4/10/2023,beverages,Jaloo,TACT,Suite 66,false,10/29/2022
+362,Appetizer - Escargot Puff,40.36,913,11/19/2022,beverages,Nlounge,RMT,Apt 1603,false,7/16/2022
+363,Ecolab Crystal Fusion,54.5,901,10/1/2022,personal care,Twinder,JSYNU,Suite 59,false,2/4/2023
+364,Soup Campbells - Tomato Bisque,62.39,778,12/29/2022,household,Tagopia,TSLX,Apt 1170,true,12/18/2022
+365,Flower - Potmums,16.16,371,10/3/2022,household,Zava,SORL,Room 1834,false,1/25/2022
+366,"Water - Mineral, Natural",63.99,75,5/5/2023,food,Oyondu,MLAB,Room 1256,false,11/23/2022
+367,Milk - Buttermilk,12.33,652,5/28/2023,food,Trupe,MMU,Suite 54,true,11/5/2022
+368,Cheese - Bocconcini,3.65,182,1/18/2023,household,Twimbo,GJR,Apt 583,true,9/25/2023
+369,Bagels Poppyseed,85.95,621,3/29/2023,personal care,Plajo,CII,PO Box 46060,true,10/12/2023
+370,"Sugar - Brown, Individual",97.81,121,11/15/2023,food,Livetube,ENO,Suite 86,true,4/1/2023
+371,Energy Drink Red Bull,31.0,529,8/13/2022,household,Gevee,VICR,Suite 27,false,4/17/2022
+372,Shopper Bag - S - 4,85.75,417,10/10/2022,beverages,Bubbletube,DELT,PO Box 70090,false,8/28/2023
+373,Macaroons - Homestyle Two Bit,76.52,934,12/20/2023,food,Buzzster,AJRD,Suite 13,true,10/23/2022
+374,Container Clear 8 Oz,23.39,316,12/28/2022,household,Demizz,FCN,Apt 811,false,1/13/2023
+375,Filo Dough,44.32,36,7/21/2023,personal care,Youfeed,GFA,PO Box 35033,false,7/27/2023
+376,Chocolate - Milk Coating,13.02,256,12/28/2023,food,Photospace,COVS,5th Floor,false,5/21/2022
+377,"Juice - Pineapple, 341 Ml",33.08,752,11/11/2023,household,Eamia,TVIX,6th Floor,true,3/24/2023
+378,"Melon - Watermelon, Seedless",73.88,348,2/12/2023,personal care,Yodel,AWF,PO Box 12765,true,7/23/2023
+379,Triple Sec - Mcguinness,70.43,333,8/19/2022,household,Twitterbeat,NGL,PO Box 20158,false,3/3/2022
+380,Potatoes - Pei 10 Oz,42.71,811,1/18/2022,personal care,Meevee,PPSI,PO Box 45286,false,2/5/2022
+381,"Soup - Beef Conomme, Dry",27.48,341,12/15/2022,personal care,Feedfire,TPB,PO Box 56657,false,10/13/2023
+382,"Yogurt - Raspberry, 175 Gr",76.88,472,2/10/2023,personal care,Geba,YEXT,Apt 952,true,1/13/2022
+383,Brandy Apricot,12.52,425,5/23/2023,food,Photojam,CLNS^A.CL,13th Floor,true,10/9/2022
+384,Spring Roll Veg Mini,56.45,92,6/17/2023,food,Realbridge,DHXM,Suite 73,true,6/9/2022
+385,"Stock - Beef, White",19.15,35,8/30/2023,household,Photojam,CYRN,PO Box 53798,true,6/24/2022
+386,Lettuce - Frisee,54.44,881,5/21/2023,beverages,Mydeo,CLACW,Room 1152,false,1/16/2023
+387,Wine - Chablis 2003 Champs,46.03,179,1/5/2022,personal care,Leenti,PNW,Room 1172,false,7/6/2022
+388,Ecolab - Solid Fusion,41.15,610,10/2/2022,food,Photolist,GLBR,5th Floor,true,4/13/2022
+389,Sugar Thermometer,95.16,833,9/27/2022,food,Podcat,CXH,Room 613,true,2/26/2022
+390,Pickerel - Fillets,87.38,444,4/12/2022,household,Cogidoo,EGN,Room 446,true,8/29/2022
+391,Gatorade - Fruit Punch,77.57,457,1/22/2023,beverages,Gabspot,ACSF,PO Box 86773,true,4/3/2022
+392,Pepper - Green,85.5,9,3/30/2023,personal care,Kwilith,GLP,Suite 25,false,7/16/2022
+393,Wine - Piper Heidsieck Brut,28.96,724,3/16/2023,personal care,Meevee,ZIONZ,2nd Floor,false,4/14/2022
+394,"Vodka - Hot, Lnferno",69.42,322,5/1/2022,personal care,Pixoboo,DRA,Apt 682,false,10/9/2023
+395,Scotch - Queen Anne,25.83,782,3/4/2022,food,Camido,SKLN,Suite 15,true,5/26/2022
+396,Bread Base - Gold Formel,26.71,352,7/12/2022,food,Topiclounge,WMT,Apt 570,false,8/31/2022
+397,Pail For Lid 1537,68.18,919,10/24/2022,food,Flashspan,CVGI,3rd Floor,true,10/13/2022
+398,Ice Cream - Life Savers,12.64,787,3/22/2023,food,Cogilith,SMBK,Apt 1706,true,3/22/2022
+399,"Pasta - Shells, Medium, Dry",61.02,979,9/11/2022,household,Vidoo,MCEF,Suite 25,false,3/24/2022
+400,Venison - Striploin,78.61,280,10/30/2023,household,Skyba,CYCCP,5th Floor,true,10/3/2023
+401,Beef - Striploin,46.89,373,1/29/2023,food,Skinte,EVK,Suite 67,false,1/31/2022
+402,Tea - Mint,50.84,81,4/21/2023,personal care,Photobean,CG,11th Floor,true,9/14/2022
+403,Pepper - Scotch Bonnet,21.92,815,10/10/2023,household,Zava,PSET,Suite 22,false,10/22/2023
+404,Potatoes - Parissienne,89.21,811,9/29/2023,household,Edgetag,FPA,Room 1497,true,5/13/2023
+405,"Sauce - Apple, Unsweetened",41.29,289,9/28/2022,household,Photofeed,FBC,Room 1555,false,6/12/2023
+406,"Beef - Tongue, Fresh",47.96,283,4/19/2023,personal care,Mycat,LXFR,PO Box 64960,false,11/27/2023
+407,Oil - Peanut,12.85,876,1/18/2023,personal care,Yodoo,LLL,Suite 22,true,11/28/2022
+408,Cheese - Mascarpone,7.7,738,4/4/2023,food,Edgeclub,TSLA,Suite 58,false,10/11/2022
+409,Shrimp - Tiger 21/25,83.46,381,10/11/2022,beverages,Youfeed,ALL^A,Apt 334,true,7/6/2022
+410,Rice - Long Grain,13.46,680,8/24/2023,beverages,Twimm,RLGY,5th Floor,true,10/19/2023
+411,Pasta - Cheese / Spinach Bauletti,4.65,244,7/18/2022,beverages,Yakijo,SUP,Suite 35,false,6/29/2023
+412,"Crab - Claws, Snow 16 - 24",70.01,960,11/15/2023,personal care,Vimbo,TCBIW,12th Floor,false,4/22/2022
+413,Ostrich - Prime Cut,19.7,116,7/28/2022,household,Voonder,CIM^A,Room 294,false,6/30/2022
+414,Latex Rubber Gloves Size 9,84.88,794,12/4/2022,personal care,Cogilith,PFSI,2nd Floor,true,8/10/2022
+415,Creme De Cacao Mcguines,64.44,945,11/23/2022,personal care,Skippad,MIDD,Room 1593,true,1/28/2022
+416,Scrubbie - Scotchbrite Hand Pad,93.31,554,4/6/2023,beverages,Twimm,SKT,Room 177,false,7/13/2022
+417,Tea - Black Currant,62.08,765,3/23/2022,personal care,Tekfly,TER,9th Floor,false,2/18/2022
+418,"Pasta - Penne, Lisce, Dry",91.71,969,11/5/2022,beverages,Lazz,EXTR,14th Floor,false,12/26/2023
+419,Mustard - Seed,7.45,452,11/28/2022,household,Yambee,PSL,PO Box 23235,true,3/12/2023
+420,Appetizer - Cheese Bites,73.76,350,8/1/2023,food,Feednation,CO,Room 1189,true,7/29/2022
+421,Wine - Masi Valpolocell,75.33,246,7/26/2022,beverages,Twitternation,IGT,12th Floor,true,7/3/2022
+422,"Chilli Paste, Ginger Garlic",7.27,690,6/1/2022,food,Voomm,KAR,PO Box 70338,false,5/23/2023
+423,Lemon Tarts,72.7,660,9/15/2022,household,Zoomcast,PRSS,PO Box 14077,true,6/22/2022
+424,Cheese - Augre Des Champs,59.77,367,11/25/2023,beverages,Mydeo,CNOB,PO Box 8645,true,11/14/2022
+425,Muffin Batt - Blueberry Passion,64.08,24,11/26/2023,personal care,Topicstorm,RT,PO Box 60473,false,2/5/2023
+426,Bread - French Baquette,39.23,938,1/25/2023,beverages,Divanoodle,NAC,Room 1136,true,8/16/2022
+427,Pork - Kidney,51.82,173,7/30/2022,food,Oyope,FNF,Room 1574,true,3/3/2023
+428,Shrimp - Prawn,21.55,395,9/25/2022,household,Avavee,UTF,Room 935,false,5/31/2022
+429,Brandy Apricot,90.92,689,4/27/2023,household,Vipe,SRTS,Apt 46,false,6/6/2023
+430,"Juice - Clam, 46 Oz",80.31,891,9/18/2023,food,Flipstorm,PL^C,Suite 51,false,9/29/2023
+431,"Cherries - Maraschino,jar",93.47,895,12/30/2022,personal care,Topiczoom,KEY,Room 1073,true,5/8/2022
+432,Yogurt - Assorted Pack,18.69,814,8/29/2023,food,Fiveclub,SYY,Room 827,true,2/12/2023
+433,Cake Slab,87.99,659,11/10/2023,beverages,Yakidoo,BRCD,Room 302,true,8/24/2022
+434,Tea - Jasmin Green,4.8,899,4/3/2022,food,Yata,ALX,Suite 39,false,9/18/2023
+435,"Marsala - Sperone, Fine, D.o.c.",38.44,430,8/16/2022,beverages,Gabcube,LGCY,5th Floor,true,1/25/2022
+436,"Rum - Spiced, Captain Morgan",23.04,958,2/17/2022,beverages,Fanoodle,PKD,PO Box 4408,false,10/14/2022
+437,Transfer Sheets,83.29,981,5/5/2023,beverages,Pixonyx,STKS,Suite 81,true,7/16/2023
+438,"Split Peas - Green, Dry",49.01,865,10/15/2023,food,Kare,TXN,Apt 1262,true,10/26/2023
+439,Cheese - Mix,33.98,900,5/19/2022,food,Youtags,MDVXW,Room 576,false,8/13/2023
+440,Bread - 10 Grain Parisian,20.24,387,1/22/2022,food,Npath,GRAM,Suite 64,true,11/11/2022
+441,Egg Patty Fried,71.63,506,8/9/2022,food,Zoomzone,FCFP,PO Box 96713,true,10/19/2022
+442,Taro Root,98.64,118,12/31/2022,household,Tavu,WBT,20th Floor,false,7/29/2023
+443,Beef - Striploin,46.93,728,11/9/2022,beverages,Mymm,BCPC,Room 880,true,8/1/2023
+444,Vinegar - Tarragon,69.05,686,12/22/2023,household,Realfire,COWNL,Room 1005,true,2/26/2023
+445,Bread - Italian Sesame Poly,19.88,847,9/1/2022,beverages,Katz,RRR,4th Floor,true,8/7/2023
+446,Chicken Breast Halal,66.79,958,9/24/2023,personal care,Bubblemix,SMFG,Room 44,true,9/18/2022
+447,Corn Kernels - Frozen,59.41,736,7/21/2023,household,Twinte,WMLP,16th Floor,false,11/6/2022
+448,Cheese - Cambozola,94.55,309,10/29/2023,personal care,Photofeed,AMED,PO Box 8800,true,8/16/2022
+449,Mushrooms - Honey,73.9,979,2/12/2022,beverages,Browsetype,AMCX,PO Box 83892,true,1/25/2023
+450,"Wine - Red, Mosaic Zweigelt",44.08,302,12/21/2022,beverages,Quimm,TPIV,Apt 1926,false,7/19/2023
+451,Chicken - Livers,16.9,192,7/18/2023,household,Jazzy,IBCP,20th Floor,false,12/15/2022
+452,Lemon Balm - Fresh,29.34,895,11/16/2022,beverages,Topiczoom,SAP,Suite 18,false,9/18/2022
+453,Wine - Conde De Valdemar,34.36,988,11/24/2022,beverages,Twimm,FFHL,Room 139,false,10/26/2023
+454,Caviar - Salmon,49.75,630,4/1/2023,beverages,Jabbersphere,NX,Suite 64,true,9/29/2022
+455,"Potatoes - Yukon Gold, 80 Ct",77.99,350,3/4/2023,personal care,Divanoodle,CRME,6th Floor,false,6/23/2022
+456,Cheese - Sheep Milk,69.08,839,5/6/2023,household,Skippad,GS^N,Room 1466,false,5/17/2023
+457,Goulash Seasoning,45.55,333,5/26/2022,food,Photolist,MDCO,5th Floor,true,1/11/2022
+458,Sambuca - Opal Nera,77.97,649,4/10/2023,food,Browsezoom,CAFD,Room 368,true,9/15/2023
+459,"Shrimp - 16/20, Peeled Deviened",23.06,311,3/21/2023,food,Kaymbo,C^C,Suite 85,false,1/13/2022
+460,"Wine - Red, Antinori Santa",65.4,146,5/20/2023,personal care,Bubbletube,TRNO^A.CL,Apt 1566,false,2/8/2022
+461,Bar Special K,32.38,259,5/26/2022,food,Wikivu,MDLQ,Suite 18,false,9/27/2022
+462,Cheese - Augre Des Champs,16.82,33,6/7/2023,beverages,Vipe,FTXO,Room 883,false,6/23/2023
+463,Muffin Puck Ww Carrot,15.27,912,2/4/2022,household,Photobug,UTX,PO Box 54771,true,1/22/2023
+464,Tea - Vanilla Chai,77.9,992,7/3/2023,food,LiveZ,GOOGL,Room 375,true,12/2/2023
+465,Chicken - Whole Roasting,37.34,245,9/27/2023,beverages,Zoomdog,ITRN,PO Box 7780,false,2/3/2022
+466,Energy Drink - Franks Original,27.59,252,6/13/2023,household,Avamm,WMB,Suite 82,false,3/1/2022
+467,"Bread - Pullman, Sliced",64.81,652,7/21/2022,food,Devbug,CCRC,Suite 12,true,7/18/2022
+468,"Stock - Veal, Brown",6.56,34,5/21/2023,personal care,Fliptune,RNP,Room 157,false,6/5/2022
+469,"Lamb - Leg, Boneless",56.03,247,5/4/2023,beverages,Twitterlist,LVS,Suite 11,false,6/27/2022
+470,Cake - Bande Of Fruit,47.11,305,12/23/2023,household,Yambee,PCH,Apt 1129,true,10/25/2022
+471,Mussels - Cultivated,10.9,574,8/29/2023,food,Eazzy,SEMG,Apt 1246,false,4/4/2022
+472,Squash - Butternut,71.63,792,12/16/2023,food,Devify,EOG,Room 135,false,12/12/2023
+473,"Pasta - Cappellini, Dry",15.25,784,2/27/2023,food,Skynoodle,PBCTP,1st Floor,true,7/30/2023
+474,Muffin Chocolate Individual Wrap,5.11,194,6/1/2022,beverages,Flashspan,NVDQ,PO Box 2594,true,8/28/2023
+475,Lid Coffee Cup 8oz Blk,70.09,668,5/5/2022,beverages,Feedspan,CBD,Room 790,true,3/24/2023
+476,Soup - Boston Clam Chowder,94.29,363,1/10/2022,beverages,Topdrive,GM,Suite 52,false,9/13/2022
+477,Squid U5 - Thailand,7.63,467,7/12/2023,food,Babbleblab,TPZ,Apt 1398,false,6/18/2022
+478,Pastry - Chocolate Chip Muffin,91.98,3,1/19/2023,household,Brightbean,DOV,4th Floor,false,6/29/2023
+479,Pepper - Red Chili,91.23,396,8/21/2022,food,Gabspot,FCF,Room 1819,true,1/26/2022
+480,"Beef - Rouladin, Sliced",35.72,163,12/31/2022,personal care,Linklinks,QVCA,Room 1689,false,7/20/2023
+481,Dr. Pepper - 355ml,93.16,95,11/4/2023,beverages,Aimbo,ADXS,Apt 650,false,3/10/2023
+482,"Chocolate - Pistoles, White",80.11,561,7/26/2023,beverages,JumpXS,ASCMA,PO Box 45315,true,9/11/2022
+483,Bar Special K,37.04,620,8/27/2022,personal care,Feedspan,NMZ,Apt 608,false,10/15/2023
+484,"Wine - White, Ej Gallo",61.63,43,10/16/2022,beverages,Trudeo,DD^B,Room 1522,true,12/24/2023
+485,Muffin Mix - Chocolate Chip,37.57,671,9/29/2023,household,Yakidoo,FTI,Suite 26,true,9/15/2023
+486,Wine - Pinot Noir Mondavi Coastal,41.93,898,7/5/2022,food,Abatz,PBNC,Room 640,true,12/6/2022
+487,Cookies - Englishbay Oatmeal,36.89,925,7/5/2023,household,Jatri,GTS,Apt 1222,true,6/1/2023
+488,Dc - Frozen Momji,52.56,831,11/24/2023,beverages,Kwideo,NNI,PO Box 27745,false,7/31/2022
+489,Oyster - In Shell,5.03,149,10/2/2023,household,Realblab,LAWS,Suite 70,false,1/26/2022
+490,Chervil - Fresh,16.2,755,4/28/2023,food,Aibox,BCOM,Suite 66,false,11/21/2022
+491,Nestea - Iced Tea,19.43,311,6/26/2023,household,Zoomdog,ICON,Apt 1273,false,4/5/2022
+492,Irish Cream - Baileys,82.31,502,12/4/2023,beverages,Skyvu,DCUD,PO Box 5918,false,3/21/2022
+493,Paper Towel Touchless,44.34,65,10/20/2023,personal care,Dynabox,CMG,PO Box 8830,false,11/24/2023
+494,Olives - Kalamata,48.76,765,1/28/2023,food,Trudoo,LDL,PO Box 1668,false,3/17/2023
+495,Bar - Sweet And Salty Chocolate,97.39,800,11/18/2023,food,Zoonoodle,HFC,Apt 633,false,10/5/2023
+496,Soup Campbells Turkey Veg.,67.09,547,4/21/2022,beverages,Flashpoint,JPS,Apt 1604,true,4/9/2023
+497,Juice - Orange 1.89l,75.8,679,11/20/2022,household,Yakidoo,WTFC,PO Box 6563,true,7/5/2022
+498,"Soup - Knorr, Chicken Gumbo",63.01,857,5/17/2023,personal care,Gabspot,SPXC,Suite 88,false,7/11/2022
+499,Tomatoes - Heirloom,40.16,842,7/26/2022,food,Photofeed,MHD,Room 453,false,8/12/2022
+500,"Beef - Baby, Liver",68.36,743,6/17/2022,personal care,Jaloo,IAG,Room 579,false,7/16/2023
+501,Ginsing - Fresh,20.08,884,5/19/2023,household,Voonte,AAC,Room 275,true,4/19/2023
+502,Cheese - Perron Cheddar,60.6,40,4/5/2023,food,Fiveclub,HNP,Apt 691,true,2/16/2022
+503,Bread - Hamburger Buns,44.97,714,1/14/2023,food,Twitterwire,CYS,PO Box 68212,false,1/4/2023
+504,Ecolab - Solid Fusion,50.61,757,3/7/2023,beverages,Flashdog,BCS^D,Suite 6,true,8/26/2022
+505,Wine - Alsace Riesling Reserve,53.25,197,11/29/2022,personal care,Youtags,AT,8th Floor,false,7/5/2023
+506,Lamb Tenderloin Nz Fr,91.44,127,1/29/2022,beverages,Jabbersphere,NXTDW,Suite 46,true,7/14/2023
+507,Onions Granulated,79.49,578,11/15/2023,household,Flashdog,ETG,2nd Floor,true,3/14/2023
+508,Beer - Steamwhistle,28.7,783,5/20/2023,beverages,Ooba,NICE,Apt 1535,false,9/13/2022
+509,Molasses - Fancy,50.66,166,4/5/2023,household,Wikizz,CCCL,Apt 787,true,3/9/2023
+510,Tamarillo,2.22,250,9/28/2023,household,Flashdog,CIF,Apt 606,true,7/21/2022
+511,Pears - Bosc,49.4,924,1/6/2023,food,Jayo,TRVN,Suite 2,false,5/4/2023
+512,Veal - Insides Provini,2.64,894,7/26/2023,personal care,Thoughtmix,KODK,Room 1441,false,12/17/2022
+513,Mustard - Seed,95.58,707,10/31/2023,personal care,Chatterbridge,PULM,PO Box 9926,true,7/23/2023
+514,Tea - English Breakfast,57.95,171,2/23/2022,beverages,Skyba,MTU,Room 394,false,6/4/2022
+515,Bread - Mini Hamburger Bun,98.79,946,4/16/2023,beverages,Voomm,KRO,Apt 89,true,5/10/2023
+516,"Coke - Classic, 355 Ml",34.94,464,3/30/2023,food,Devpoint,SSB,Room 1689,true,10/9/2023
+517,Lamb Leg - Bone - In Nz,14.15,3,4/27/2023,personal care,Photospace,EMIF,6th Floor,false,3/31/2023
+518,Capers - Pickled,61.08,408,10/28/2023,food,Zazio,MMYT,11th Floor,false,7/6/2023
+519,"Quail - Whole, Bone - In",73.23,961,1/13/2022,food,Dabfeed,AXGN,Suite 5,false,7/23/2023
+520,Bread - Bistro White,44.6,972,4/17/2022,household,Realmix,GATX,Suite 91,true,2/18/2022
+521,Chervil - Fresh,21.14,888,8/18/2023,food,Zoombox,LMT,5th Floor,false,7/4/2023
+522,Oregano - Fresh,27.55,430,11/28/2023,food,Eayo,SPR,13th Floor,true,7/17/2023
+523,Veal - Sweetbread,98.2,223,9/11/2022,household,Twiyo,PEG,Apt 1986,false,9/30/2022
+524,Sword Pick Asst,73.44,517,10/16/2022,beverages,Topicware,MYRG,Apt 1333,false,9/6/2023
+525,Clam Nectar,83.05,748,12/28/2023,food,Oyoba,LPCN,2nd Floor,true,3/25/2022
+526,"Tea - Darjeeling, Azzura",91.17,18,10/1/2023,household,Voomm,LII,16th Floor,false,1/22/2023
+527,"Wine - Cahors Ac 2000, Clos",30.72,916,5/5/2023,household,Viva,PMO,Room 1693,true,9/18/2023
+528,Wakami Seaweed,75.17,804,2/13/2023,personal care,Mudo,PCQ,Suite 61,true,8/24/2022
+529,Flour - Teff,92.16,39,8/24/2022,food,Zazio,WRI,Room 513,false,2/26/2022
+530,Puree - Mango,39.84,204,9/1/2023,beverages,Vitz,PSET,7th Floor,false,7/18/2023
+531,Beef - Bresaola,93.1,623,4/20/2023,household,Riffpath,NTRP,Apt 391,true,4/17/2023
+532,Bread - Bistro Sour,46.23,549,7/1/2022,beverages,Devify,NKE,Room 1771,true,12/24/2022
+533,Pears - Fiorelle,29.74,732,7/12/2022,beverages,Mymm,CRTO,Suite 35,true,2/9/2023
+534,"Veal - Shank, Pieces",87.02,254,9/12/2023,food,Gabtune,BHK,PO Box 8452,true,11/17/2022
+535,Rabbit - Saddles,9.56,804,9/6/2023,personal care,Quimba,RMD,Suite 69,false,1/6/2022
+536,Cookie - Oreo 100x2,23.18,105,5/25/2023,food,Layo,TIPT,Suite 75,true,10/28/2022
+537,Soup - Campbells Chili Veg,52.58,388,2/16/2022,personal care,Jabbersphere,MANU,8th Floor,false,12/29/2023
+538,Flour Dark Rye,57.63,776,9/2/2023,food,Voolith,RLJ,Apt 1051,false,8/15/2022
+539,Lobster - Base,6.77,347,9/20/2023,beverages,Thoughtblab,IIVI,19th Floor,false,2/9/2022
+540,Carbonated Water - Strawberry,63.35,21,9/7/2022,household,Photojam,TCBK,1st Floor,true,5/31/2023
+541,"Crab - Dungeness, Whole",73.79,405,8/15/2022,beverages,Jabbersphere,DX,13th Floor,true,8/29/2022
+542,"Pepper - Chipotle, Canned",11.7,864,3/11/2023,beverages,Twitternation,URGN,Room 452,false,1/17/2023
+543,"Chilli Paste, Ginger Garlic",17.98,15,5/31/2023,food,Livetube,CPAAU,6th Floor,false,1/6/2022
+544,Pastrami,24.53,226,9/20/2023,beverages,Fanoodle,FHN^A,Apt 1571,false,1/10/2022
+545,Tea - Herbal - 6 Asst,98.62,839,6/16/2022,beverages,Kare,TCO,Room 1561,true,12/27/2022
+546,"Cheese - Manchego, Spanish",22.63,934,12/1/2023,beverages,Dynava,NNI,Suite 30,true,11/30/2023
+547,Tart - Lemon,23.38,58,4/4/2023,beverages,Feedbug,TRQ,9th Floor,false,4/7/2023
+548,Steamers White,18.93,743,10/20/2022,personal care,Jetpulse,TOO^B,PO Box 51959,true,5/7/2023
+549,Propel Sport Drink,50.14,344,10/21/2022,beverages,Thoughtbridge,CMCM,Room 1215,true,11/21/2023
+550,"Cheese - Woolwich Goat, Log",36.55,136,11/30/2023,beverages,Ailane,CGO,Room 418,true,12/12/2022
+551,Bread Country Roll,69.31,65,6/1/2023,food,Dabshots,ZIV,Apt 1184,true,8/5/2022
+552,Oil - Cooking Spray,24.16,37,11/11/2022,household,Riffpath,WGO,Suite 23,true,2/15/2023
+553,"Potatoes - Instant, Mashed",46.94,555,2/8/2022,personal care,Photobean,IVC,Apt 968,false,3/25/2022
+554,Chocolate Bar - Reese Pieces,20.86,685,7/18/2023,food,Flashspan,ARR,Suite 52,true,5/27/2023
+555,Juice - Ocean Spray Kiwi,13.36,894,7/16/2022,household,Dabvine,TAST,Room 100,false,7/2/2023
+556,Muffin - Mix - Bran And Maple 15l,43.16,326,12/25/2023,household,Vimbo,PSA^D,Room 30,true,3/13/2022
+557,Beer - Steamwhistle,30.16,759,6/15/2023,food,Voolia,TRN,7th Floor,true,5/15/2023
+558,Mix Pina Colada,39.43,245,9/2/2022,household,Avaveo,NICE,Room 1334,false,7/13/2022
+559,Food Colouring - Blue,43.96,666,1/13/2023,food,DabZ,WHFBL,PO Box 51731,false,3/23/2022
+560,Cookie Dough - Chocolate Chip,36.07,73,1/17/2022,beverages,Minyx,HBP,Apt 1446,true,3/13/2023
+561,Pear - Asian,53.35,495,10/12/2022,household,Jetwire,RSO^B,Room 975,true,1/25/2023
+562,Beans - Wax,93.72,794,6/10/2023,beverages,Agimba,GRPN,PO Box 47519,true,11/28/2022
+563,Myers Planters Punch,51.37,532,10/24/2022,personal care,Zoombox,LINC,Apt 1928,false,10/5/2022
+564,Icecream - Dstk Strw Chseck,45.35,256,9/4/2023,beverages,Realpoint,SCI,PO Box 23393,false,7/23/2022
+565,Cocktail Napkin Blue,50.46,98,4/24/2022,personal care,Flashspan,LDL,PO Box 942,true,7/13/2022
+566,Vodka - Smirnoff,14.0,800,3/7/2023,personal care,Thoughtworks,GGM,19th Floor,false,2/10/2022
+567,Juice Peach Nectar,48.56,472,5/19/2022,beverages,Browsebug,CCL,Suite 55,true,9/14/2022
+568,Muffin Batt - Blueberry Passion,49.76,412,4/6/2022,household,Buzzshare,WBS^E,PO Box 35266,false,3/31/2023
+569,"Pepper - Chipotle, Canned",93.03,650,5/31/2022,beverages,Jayo,PINC,12th Floor,true,8/9/2022
+570,"Wine - White, Pinot Grigio",18.18,295,4/22/2022,personal care,Thoughtblab,AMT,Suite 84,true,7/20/2023
+571,Pepper - Red Thai,6.65,987,2/11/2022,food,Yodo,ATO,20th Floor,true,12/4/2023
+572,Cheese - Wine,63.29,54,7/21/2022,household,Skibox,BCBP,Suite 73,true,7/28/2023
+573,Coffee - Hazelnut Cream,4.93,348,1/30/2022,food,Blogtag,KOSS,Suite 62,true,5/4/2023
+574,Ham - Black Forest,33.87,771,9/11/2022,beverages,Edgetag,ZBIO,17th Floor,false,4/1/2022
+575,Tomatoes - Heirloom,60.98,726,2/27/2022,household,Meembee,TAX,Apt 803,false,2/20/2023
+576,Wine - Sawmill Creek Autumn,90.66,871,8/7/2022,household,Fiveclub,HOVNP,PO Box 28848,false,1/13/2022
+577,Vinegar - Red Wine,91.78,844,2/21/2023,beverages,Rhynyx,AFA,PO Box 37625,false,7/6/2023
+578,Ice Cream - Vanilla,48.18,718,4/18/2022,beverages,Meembee,NS^A,Room 1317,true,9/1/2022
+579,Ecolab Silver Fusion,96.64,455,5/25/2023,food,Innojam,RACE,Suite 29,true,2/12/2022
+580,"Salmon - Atlantic, Fresh, Whole",27.04,703,2/10/2023,beverages,Flipopia,ADSW,Suite 53,false,3/25/2023
+581,Salmon Steak - Cohoe 6 Oz,68.69,570,6/15/2022,household,Lazzy,SIGI,Suite 80,false,4/19/2022
+582,Appetizer - Chicken Satay,93.58,1000,4/2/2023,household,Skimia,EVBS,Room 1125,false,4/22/2022
+583,Vinegar - Raspberry,38.95,440,8/22/2022,beverages,Gigazoom,BJZ,PO Box 15148,true,12/10/2023
+584,"Mushroom - Morels, Dry",74.81,882,3/30/2023,food,Youopia,RNWK,Suite 63,false,12/15/2022
+585,"Cheese - Havarti, Salsa",57.69,685,10/12/2022,personal care,Ainyx,CSRA,Suite 53,true,5/19/2023
+586,Cheese - Blue,77.03,223,5/26/2023,beverages,Zoombeat,MKC.V,Apt 180,true,2/27/2023
+587,"Marsala - Sperone, Fine, D.o.c.",4.06,771,2/17/2022,beverages,Gabtype,UMH,Suite 19,false,3/13/2023
+588,Kumquat,50.46,359,5/2/2022,beverages,Quamba,TIER,PO Box 14507,true,3/25/2023
+589,Hold Up Tool Storage Rack,69.08,147,12/14/2023,household,Zooveo,DCOM,12th Floor,false,11/11/2023
+590,Sausage - Meat,30.67,59,2/5/2022,food,Gigabox,GHC,PO Box 11782,true,10/19/2022
+591,Ham - Proscuitto,22.17,468,10/24/2023,personal care,Jaxspan,STAG^B,13th Floor,true,12/1/2022
+592,Cauliflower,6.37,614,12/23/2022,personal care,Realbridge,EVRI,5th Floor,false,4/10/2023
+593,Snails - Large Canned,22.01,457,2/6/2023,household,Dynava,NBR,Suite 79,true,10/6/2022
+594,"Vermouth - Sweet, Cinzano",38.33,596,12/14/2022,food,Twitterlist,NXP,PO Box 68363,false,8/2/2023
+595,Corn Kernels - Frozen,7.59,309,2/24/2023,food,Realcube,ABX,Room 183,true,3/2/2022
+596,Juice - Propel Sport,44.48,996,9/20/2022,beverages,Dabfeed,GNMX,PO Box 53308,false,3/5/2023
+597,Mustard - Pommery,12.18,287,9/30/2022,household,Wordpedia,PII,Suite 30,true,6/23/2022
+598,Apple - Granny Smith,63.17,561,4/23/2022,personal care,Linklinks,UDBI,PO Box 23338,true,9/11/2023
+599,Versatainer Nc - 888,93.58,847,4/25/2023,household,Flipstorm,SPRT,Room 1007,true,7/16/2023
+600,Lamb - Loin Chops,18.56,415,6/17/2022,personal care,Jaxspan,TNDM,PO Box 43676,true,3/29/2023
+601,Bread - Dark Rye,18.27,848,4/8/2022,household,Linkbuzz,IRCP,Room 12,false,9/16/2023
+602,Longos - Penne With Pesto,94.77,707,7/23/2023,personal care,Reallinks,CFRX,19th Floor,false,12/26/2022
+603,Nectarines,25.67,408,4/5/2022,food,Avamm,WYNN,Apt 956,false,5/20/2022
+604,"Olives - Black, Pitted",65.1,957,10/11/2022,beverages,Mydeo,CLBS,4th Floor,true,3/29/2023
+605,Lobster - Cooked,37.75,925,3/5/2022,household,Youopia,HZN,Suite 59,false,5/7/2023
+606,Apple - Northern Spy,27.1,93,7/20/2023,household,Kayveo,DDR^A,Apt 51,true,4/13/2023
+607,"Veal - Inside Round / Top, Lean",23.22,156,7/13/2022,food,Skivee,SCYX,Suite 42,true,12/21/2022
+608,Muffin Hinge Container 6,87.32,700,1/19/2022,household,Eimbee,AFAM,PO Box 45381,true,12/5/2023
+609,Juice - Lagoon Mango,66.66,186,3/10/2023,food,Eire,OMAA,3rd Floor,false,11/1/2022
+610,Toothpick Frilled,3.56,960,2/20/2023,household,Lazz,SHLO,PO Box 4457,true,6/14/2022
+611,Pork - Suckling Pig,20.14,68,10/9/2022,personal care,Yadel,CHS,16th Floor,false,12/14/2022
+612,Wine - Periguita Fonseca,15.7,890,3/9/2023,household,Twitterbridge,PVH,Room 1424,false,3/3/2022
+613,Ecolab - Medallion,44.06,437,6/28/2022,personal care,Miboo,EVT,PO Box 15730,false,4/28/2022
+614,"Coconut - Shredded, Unsweet",51.67,42,8/16/2023,household,Demimbu,NMK^B,PO Box 22487,false,2/8/2022
+615,Lighter - Bbq,53.73,490,7/26/2023,food,Meedoo,SNPS,9th Floor,false,7/18/2023
+616,Ham Black Forest,68.49,77,9/14/2022,household,Twitternation,ECA,8th Floor,false,9/16/2022
+617,"Pasta - Linguini, Dry",10.02,968,3/16/2022,beverages,Quimm,PSB^V,Room 1929,true,2/4/2022
+618,"Veal - Round, Eye Of",94.13,635,8/6/2023,household,Agimba,CIVBP,Suite 90,true,10/8/2023
+619,Flour Pastry Super Fine,54.17,761,2/3/2022,household,Rhynyx,CPAC,Suite 70,false,2/14/2022
+620,Dc - Frozen Momji,15.91,938,7/7/2022,household,Yakidoo,ASFI,10th Floor,false,6/11/2022
+621,Calypso - Strawberry Lemonade,12.7,914,3/13/2022,food,Topicshots,FFIC,9th Floor,false,9/29/2022
+622,Plastic Arrow Stir Stick,97.41,828,1/17/2022,personal care,Muxo,BHACW,Suite 20,false,3/5/2022
+623,Wine - Fat Bastard Merlot,62.63,368,7/14/2023,household,Jatri,RRTS,PO Box 3163,false,12/30/2023
+624,Pork - Backs - Boneless,5.47,441,10/27/2023,household,Meeveo,FITB,3rd Floor,true,12/31/2022
+625,Calypso - Black Cherry Lemonade,86.04,259,2/1/2022,household,Gabspot,LENS,1st Floor,false,3/30/2022
+626,Wine - Maipo Valle Cabernet,18.69,446,10/25/2022,beverages,Thoughtsphere,FNHC,Room 459,false,8/8/2022
+627,French Kiss Vanilla,42.76,194,1/29/2023,food,Thoughtstorm,CAFD,7th Floor,true,4/24/2022
+628,"Rum - Coconut, Malibu",44.61,749,10/8/2022,personal care,Cogidoo,EML,PO Box 8925,true,11/15/2023
+629,Wanton Wrap,55.91,85,12/8/2023,personal care,Yabox,ICB,Apt 1002,true,10/1/2022
+630,Wine - Casillero Del Diablo,50.54,305,3/8/2022,household,Tagtune,STBZ,Room 1118,true,5/28/2022
+631,"Yogurt - Peach, 175 Gr",71.68,841,3/13/2023,personal care,Jabbersphere,JQC,11th Floor,true,4/25/2023
+632,Red Currants,29.81,111,11/23/2023,household,Ainyx,TVIA,14th Floor,false,12/2/2022
+633,Filo Dough,90.05,135,3/29/2022,beverages,Meevee,FTS,PO Box 88483,true,6/1/2022
+634,Cattail Hearts,40.38,77,8/4/2023,food,Twitterbridge,KO,Apt 308,false,12/13/2023
+635,Campari,65.02,66,5/9/2022,beverages,Vinte,ORG,20th Floor,false,3/29/2023
+636,Sea Bass - Whole,31.72,367,4/28/2022,personal care,Kamba,ALDR,4th Floor,true,9/17/2022
+637,Wine - Saint Emilion Calvet,68.85,671,3/20/2022,food,Feedfish,QTNA,Suite 100,true,4/13/2022
+638,Wine - Conde De Valdemar,67.74,482,5/30/2022,personal care,Dynabox,NAV^D,Apt 1005,true,3/11/2023
+639,Chips Potato All Dressed - 43g,65.14,50,6/30/2023,food,Innojam,SSWN,4th Floor,false,5/16/2022
+640,Wheat - Soft Kernal Of Wheat,83.78,932,7/5/2023,personal care,Janyx,FNFV,Apt 1713,false,7/26/2023
+641,Grapefruit - White,81.19,986,3/7/2022,household,Blogtags,FFA,10th Floor,true,6/30/2023
+642,"Chocolate - Milk, Callets",86.06,646,3/30/2023,beverages,Skippad,REPH,Room 743,false,6/16/2023
+643,Apricots - Halves,55.33,474,6/21/2023,beverages,Oyope,ATHN,Apt 1990,true,5/9/2023
+644,"Ham - Smoked, Bone - In",95.72,792,3/15/2023,personal care,Voonyx,PDS,Room 1802,true,10/17/2023
+645,Sansho Powder,51.64,800,2/8/2023,household,Pixonyx,MAA^I,Room 1393,true,3/12/2022
+646,Salt - Table,93.57,488,4/11/2022,household,Edgeclub,NLY^E,PO Box 87569,false,7/31/2022
+647,"Chicken - Leg, Boneless",65.96,424,4/6/2023,personal care,Dabjam,OXBRW,Apt 557,true,9/16/2022
+648,"Wine - White, Chardonnay",99.03,294,4/12/2022,food,Feedfire,NCB,Apt 937,false,12/24/2023
+649,Appetizer - Shrimp Puff,50.56,217,9/1/2023,food,Devpoint,DOV,Suite 54,false,3/10/2023
+650,Cheese - Oka,57.56,386,1/23/2022,beverages,Plambee,ALBO,Room 1570,false,1/21/2023
+651,Mousse - Passion Fruit,99.35,926,7/14/2022,beverages,Skynoodle,HAS,Room 1589,false,9/16/2022
+652,Basil - Fresh,32.63,400,9/25/2023,personal care,Skilith,PGLC,12th Floor,false,3/11/2022
+653,Truffle Cups Green,71.98,631,3/21/2023,food,Realfire,DYNT,Apt 398,true,6/25/2022
+654,Glycerine,13.44,713,10/7/2022,beverages,Jaxbean,KMB,Room 1442,false,9/15/2022
+655,Wine - Spumante Bambino White,87.19,738,8/19/2023,personal care,Ntag,CYAD,Suite 45,true,9/22/2023
+656,Bagelers - Cinn / Brown,28.5,31,8/27/2023,beverages,Eimbee,NC,PO Box 26782,false,3/14/2022
+657,Cheese Cloth,1.24,597,10/27/2023,beverages,Camimbo,HUNTU,Suite 5,true,12/29/2022
+658,Lobster - Base,46.62,332,4/12/2022,personal care,Thoughtstorm,NVDA,13th Floor,true,6/1/2023
+659,Beer - Paulaner Hefeweisse,98.16,758,7/14/2023,household,Photobug,WIRE,Apt 823,true,11/12/2023
+660,Coffee - Espresso,6.44,717,10/16/2023,beverages,Thoughtstorm,WEN,Apt 1776,true,2/24/2022
+661,Tomato - Green,99.8,630,11/25/2022,beverages,Aimbu,CORI,Apt 637,true,2/12/2022
+662,Pastry - Banana Tea Loaf,64.69,270,7/22/2022,personal care,Topicstorm,CNQ,8th Floor,true,3/13/2023
+663,"Beans - Navy, Dry",23.6,161,3/2/2022,personal care,Voonix,VEAC,PO Box 60065,false,7/23/2022
+664,"Pork - Bacon,back Peameal",34.31,441,10/2/2022,food,Rhyloo,AHPAW,PO Box 51734,false,12/2/2022
+665,Cookies - Fortune,73.83,764,5/29/2023,beverages,Dynabox,ANSS,PO Box 69369,false,7/22/2023
+666,"Beans - Turtle, Black, Dry",82.03,584,4/1/2023,personal care,Dabfeed,STRL,Apt 1564,true,8/19/2023
+667,Cake - Dulce De Leche,43.01,227,1/9/2023,personal care,Podcat,VWOB,PO Box 94691,false,10/16/2022
+668,Figs,10.01,226,7/25/2022,food,Yambee,SAH,8th Floor,false,12/3/2022
+669,Ecolab - Hand Soap Form Antibac,99.91,429,5/8/2022,household,Feedfire,LB,Suite 29,true,9/8/2022
+670,Sobe - Berry Energy,53.91,587,9/24/2023,household,Tazz,SXC,Suite 43,false,4/30/2022
+671,Cheese - Parmesan Grated,65.66,858,10/29/2022,household,Vimbo,HP,Room 1679,true,4/8/2023
+672,Wine - Masi Valpolocell,93.2,117,11/23/2022,personal care,Kwilith,EXG,Room 220,true,11/24/2022
+673,Pomegranates,56.85,569,11/22/2023,household,Meevee,WWW,Suite 23,false,11/20/2023
+674,Green Scrubbie Pad H.duty,29.3,654,4/2/2022,food,Blogspan,FONE,PO Box 58182,false,6/24/2022
+675,"Juice - Tomato, 48 Oz",88.19,309,8/12/2022,household,Jazzy,NTZ,Apt 1966,false,12/25/2023
+676,Chickensplit Half,13.81,722,5/11/2023,beverages,Shuffledrive,HFC,17th Floor,false,6/24/2022
+677,"Veal - Inside Round / Top, Lean",80.66,279,11/29/2022,personal care,Mynte,MMP,PO Box 64568,true,5/12/2023
+678,Pork - European Side Bacon,28.39,982,2/25/2023,household,Midel,FC,PO Box 27893,true,7/19/2023
+679,"C - Plus, Orange",26.1,438,10/29/2022,beverages,Yakijo,MUH,Room 310,true,4/29/2022
+680,Ham - Proscuitto,1.65,399,9/15/2023,beverages,Feedfish,FORM,8th Floor,true,1/1/2023
+681,Soap - Mr.clean Floor Soap,50.36,33,8/30/2023,household,Avamba,GTS,Suite 56,true,8/18/2023
+682,"Wine - White, Ej",89.46,55,12/4/2022,personal care,Twinte,AETI,Suite 47,true,2/16/2023
+683,Flavouring - Orange,3.14,406,1/30/2023,beverages,Thoughtblab,ZIXI,Suite 48,true,10/2/2023
+684,"Bag - Bread, White, Plain",55.09,152,11/15/2022,food,Skidoo,PNTA.CL,PO Box 38011,true,1/12/2022
+685,Beef - Bresaola,44.91,453,2/18/2023,household,Mydeo,PXD,Apt 1711,false,6/16/2023
+686,Lamb - Rack,9.62,910,4/21/2023,food,Kayveo,MPWR,Apt 1297,false,1/9/2023
+687,Oranges,95.77,213,3/25/2023,food,Livetube,AIV,Apt 570,true,11/9/2023
+688,Wine - White Cab Sauv.on,99.3,233,5/13/2023,personal care,Yotz,PYT,6th Floor,false,7/25/2023
+689,Pears - Anjou,84.93,252,8/3/2023,beverages,Devify,PNBK,Room 464,true,10/2/2023
+690,"Soup - Knorr, Chicken Gumbo",84.05,980,6/20/2022,food,Twimbo,VEACU,6th Floor,true,5/9/2023
+691,"Lamb - Leg, Boneless",66.76,501,8/4/2022,beverages,Zooveo,CPT,Room 59,true,12/20/2022
+692,Potatoes - Idaho 80 Count,69.57,107,7/21/2023,household,Skyvu,GNT,Apt 778,false,9/29/2022
+693,Flour - Masa De Harina Mexican,30.38,805,9/3/2022,beverages,Kaymbo,GPACU,Apt 1770,false,12/16/2022
+694,Anchovy Paste - 56 G Tube,38.31,351,5/11/2023,beverages,Leenti,CMD,Apt 235,true,12/13/2023
+695,Mints - Striped Red,60.67,87,7/17/2022,personal care,Livetube,SXT,PO Box 65540,false,9/8/2022
+696,Aspic - Clear,20.63,503,6/1/2022,food,Twitterbeat,SILC,Apt 950,true,8/24/2023
+697,Green Scrubbie Pad H.duty,3.92,356,7/10/2022,beverages,Jayo,IDTI,Suite 3,false,8/30/2022
+698,"Pork - Ham, Virginia",39.17,287,2/6/2023,beverages,Edgeify,MGNX,PO Box 72653,true,7/28/2022
+699,Ice Cream Bar - Oreo Cone,71.45,658,8/13/2022,household,Quimm,WINA,6th Floor,true,6/1/2023
+700,Peach - Halves,89.33,325,2/3/2022,household,Yakitri,CHSP^A.CL,Apt 1589,true,10/28/2022
+701,Snapple Raspberry Tea,18.55,878,3/4/2023,food,Voonder,COF^H,PO Box 97214,false,12/28/2022
+702,Wine - Sawmill Creek Autumn,67.09,727,2/25/2023,food,Zooveo,IMAX,Suite 20,false,12/4/2022
+703,Muffin Hinge Container 6,8.64,911,4/22/2022,household,DabZ,EFAS,Apt 1337,false,3/19/2023
+704,Cape Capensis - Fillet,31.3,251,3/3/2022,food,Topicstorm,BOOM,Apt 744,true,10/9/2023
+705,Sauce - Sesame Thai Dressing,18.46,229,11/29/2022,personal care,Yacero,NHLDW,16th Floor,true,12/13/2023
+706,Wine - Vidal Icewine Magnotta,90.12,314,10/10/2023,household,Youopia,IVTY,Room 1500,true,1/23/2023
+707,Flour - Cake,96.14,937,8/24/2022,household,Linklinks,WAAS,Apt 583,false,2/7/2022
+708,Ocean Spray - Kiwi Strawberry,9.35,640,3/1/2022,food,Mycat,CRDS,Apt 1418,true,6/18/2022
+709,Shark - Loin,55.23,973,3/11/2023,food,Skinte,FRED,7th Floor,false,12/15/2023
+710,Boogies,57.12,680,8/25/2022,personal care,Quinu,DBL,Room 702,true,6/18/2023
+711,Mushrooms - Honey,77.32,331,3/3/2022,beverages,Devshare,PXS,Apt 946,false,9/5/2022
+712,"Pork - Ham, Virginia",9.49,491,5/30/2023,personal care,Ooba,COHU,Room 683,true,3/23/2022
+713,Kiwi Gold Zespri,46.46,565,11/14/2023,household,Edgepulse,CHMA,11th Floor,false,12/22/2022
+714,Mayonnaise - Individual Pkg,54.41,297,9/2/2023,household,Livefish,XGTI,Room 1801,false,11/14/2022
+715,Crab Brie In Phyllo,15.28,239,8/19/2023,beverages,Nlounge,EXA,PO Box 35737,true,5/20/2023
+716,"Tart Shells - Savory, 4",19.95,397,1/7/2023,food,Tagtune,DRQ,Room 485,true,2/7/2023
+717,"Rosemary - Primerba, Paste",69.16,355,2/16/2023,food,Twiyo,TWI,Room 889,false,4/21/2022
+718,Fondant - Icing,23.72,934,1/11/2022,beverages,Bubblebox,TRMR,PO Box 83750,true,1/3/2022
+719,Yams,97.3,30,5/14/2023,household,Gigashots,FIZZ,Suite 73,true,10/24/2023
+720,Bar Mix - Lemon,51.45,179,11/7/2022,beverages,Thoughtblab,JLS,Apt 1010,false,6/21/2022
+721,Shrimp - Black Tiger 16/20,82.7,999,6/13/2022,household,Mudo,EEX,Room 72,false,7/18/2022
+722,Pate - Liver,44.18,264,9/25/2023,beverages,Tagpad,BBOX,8th Floor,false,3/18/2022
+723,Munchies Honey Sweet Trail Mix,75.43,277,2/5/2022,food,Topiczoom,CCXI,PO Box 12676,false,10/13/2023
+724,Pop Shoppe Cream Soda,30.67,941,9/7/2022,household,Jaloo,LKSD,12th Floor,true,1/22/2022
+725,Wine - Zinfandel Rosenblum,22.58,747,8/7/2023,food,Quimm,NOC,Suite 92,true,11/12/2023
+726,Noodles - Steamed Chow Mein,95.28,833,10/12/2022,beverages,Dabtype,GPACW,Apt 1874,false,1/29/2022
+727,Chicken Giblets,35.14,352,5/6/2022,beverages,Feednation,PLCE,9th Floor,false,7/16/2022
+728,Salad Dressing,6.53,310,7/3/2022,beverages,Blognation,EPAY,PO Box 28853,true,8/5/2023
+729,Flour - Whole Wheat,58.08,246,6/5/2023,food,Buzzdog,GEL,Room 276,true,6/28/2023
+730,Goat - Whole Cut,9.63,779,5/2/2022,household,Teklist,VC,Apt 1566,false,1/7/2023
+731,Beef - Top Sirloin,79.74,825,12/2/2022,beverages,Eadel,BTZ,PO Box 4211,false,2/6/2023
+732,"Soup - Campbells, Butternut",8.7,18,1/6/2022,food,Thoughtsphere,CUR,PO Box 74147,false,6/14/2022
+733,Pork - Bacon Cooked Slcd,7.18,644,11/13/2023,personal care,Shuffletag,CBK,Room 964,true,8/29/2023
+734,Cheese - Parmigiano Reggiano,76.41,416,7/20/2022,food,Yodel,NEOT,Suite 59,false,3/12/2022
+735,Spinach - Packaged,46.38,968,11/2/2022,personal care,Trunyx,MFNC,4th Floor,false,6/26/2023
+736,"Nut - Almond, Blanched, Whole",73.73,409,4/27/2022,food,Voolith,ONS,Apt 947,true,10/20/2022
+737,Calypso - Lemonade,88.17,851,8/15/2023,household,Jetwire,FRO,Apt 289,true,5/10/2022
+738,Silicone Parch. 16.3x24.3,33.75,323,11/17/2022,household,Buzzdog,FEO,PO Box 72405,false,4/15/2022
+739,Mushrooms - Honey,78.57,780,3/30/2023,beverages,Thoughtbeat,TCO,12th Floor,true,4/26/2023
+740,Eggplant - Regular,99.03,242,8/6/2022,household,Ntags,BIOP,Room 539,false,3/14/2022
+741,Plaintain,91.92,339,3/10/2023,beverages,Chatterpoint,IBUY,19th Floor,true,5/3/2023
+742,"7up Diet, 355 Ml",60.13,516,11/5/2022,household,Browsecat,INCY,Room 196,false,8/1/2022
+743,"Potatoes - Instant, Mashed",16.88,546,8/6/2023,household,Realmix,NTIC,Room 773,true,4/17/2022
+744,Bar Energy Chocchip,82.99,919,2/19/2022,beverages,Pixope,JCOM,Apt 66,true,12/30/2023
+745,Scallops - Live In Shell,29.11,110,7/24/2023,personal care,Tagpad,GFI,PO Box 49691,true,2/20/2022
+746,Ecolab Silver Fusion,80.22,848,9/20/2023,beverages,Brightbean,KYN^F,Suite 97,false,1/6/2022
+747,"Tart Shells - Savory, 4",79.9,331,11/8/2023,beverages,Tagopia,MPWR,1st Floor,false,11/1/2022
+748,Mudslide,19.87,490,4/19/2022,beverages,Ntag,WIT,4th Floor,false,7/1/2023
+749,"Lemonade - Kiwi, 591 Ml",34.5,441,12/14/2023,household,Trilith,ALLT,Apt 587,true,11/8/2022
+750,Pepper - Orange,80.07,872,10/23/2023,household,Izio,BHAC,PO Box 44369,true,1/23/2022
+751,"Rice Pilaf, Dry,package",24.18,792,5/17/2023,household,Youspan,SPG,2nd Floor,true,3/20/2023
+752,Cut Wakame - Hanawakaba,23.94,79,2/5/2023,household,Skalith,CVS,17th Floor,true,12/20/2022
+753,Beef - Ground Medium,33.57,279,1/12/2023,household,DabZ,KTOV,Suite 29,true,3/23/2023
+754,Pepper - Green,65.3,963,7/3/2022,personal care,Kwilith,ZYME,Room 804,true,2/13/2022
+755,Juice - Apple Cider,7.97,962,1/18/2022,household,Thoughtsphere,NCR,Apt 280,false,2/17/2022
+756,Mushroom - White Button,79.88,824,10/23/2023,food,Skipstorm,SMP,Apt 1511,true,3/14/2023
+757,"Ham - Smoked, Bone - In",52.3,918,3/21/2023,food,Gigazoom,CAKE,Suite 10,false,10/13/2023
+758,Juice Peach Nectar,99.89,359,1/8/2022,food,Thoughtbridge,PES,Suite 49,false,8/30/2023
+759,Veal - Provimi Inside,44.21,674,9/5/2023,household,Vidoo,JDD,PO Box 31383,true,4/11/2023
+760,Gloves - Goldtouch Disposable,23.34,724,9/2/2023,household,Fivespan,PYT,Suite 79,false,5/3/2023
+761,"Bread - Bagels, Plain",52.71,755,5/26/2023,household,Skyndu,POWI,6th Floor,false,1/26/2022
+762,Cleaner - Bleach,70.85,930,4/3/2022,household,Ooba,NSYS,PO Box 9398,false,9/28/2023
+763,Carbonated Water - Orange,63.43,925,3/13/2022,household,Dynava,AMNB,Suite 31,true,6/22/2022
+764,Milk - Condensed,85.14,861,6/18/2022,food,Linktype,TUSA,Suite 42,false,12/2/2022
+765,Wine - Valpolicella Masi,63.11,909,9/29/2023,food,Meedoo,QQQ,PO Box 3307,true,12/29/2023
+766,Pail With Metal Handle 16l White,98.96,14,1/21/2023,household,Lazz,FC,PO Box 85040,false,3/21/2023
+767,Yukon Jack,8.75,306,3/29/2023,household,Voomm,EFC,Room 1650,false,12/13/2022
+768,Green Scrubbie Pad H.duty,73.49,976,7/26/2023,food,Tagchat,BSTC,PO Box 23275,true,8/20/2022
+769,Cheese - Grie Des Champ,30.17,837,10/11/2023,food,Pixoboo,JCS,Suite 57,true,11/28/2023
+770,Dried Apple,64.46,180,11/10/2022,personal care,Digitube,SHG,10th Floor,false,10/7/2022
+771,Apple - Granny Smith,82.57,710,7/27/2022,personal care,Midel,TECH,PO Box 51330,false,5/8/2022
+772,Meldea Green Tea Liquor,68.31,504,11/1/2022,household,Geba,DGLD,Apt 645,false,7/8/2023
+773,Pepper - Sorrano,17.89,58,7/21/2023,food,Rhynyx,OXY,Apt 415,false,5/8/2023
+774,Huck White Towels,70.6,706,8/3/2022,household,Yabox,NSIT,Room 1174,true,6/21/2023
+775,Chinese Foods - Chicken Wing,80.14,552,5/23/2023,personal care,Gabvine,ZF,11th Floor,false,4/2/2022
+776,Muffin - Carrot Individual Wrap,27.79,95,10/4/2022,food,Gabtype,KAP,Suite 52,true,9/19/2022
+777,Langers - Mango Nectar,66.98,432,9/26/2022,personal care,Meevee,LMOS,Apt 681,false,7/3/2022
+778,Sauce Bbq Smokey,18.95,29,10/12/2022,personal care,Pixonyx,full_name,PO Box 87374,false,8/9/2023
+779,Bread - Bistro White,4.0,935,5/15/2023,food,Tagcat,EFSC,PO Box 52955,true,5/26/2022
+780,Gherkin - Sour,90.48,887,7/24/2022,personal care,Kayveo,IRCP,Room 446,true,1/21/2023
+781,Vanilla Beans,67.0,531,5/11/2022,household,Jaxworks,OVAS,PO Box 76824,true,5/14/2023
+782,"Club Soda - Schweppes, 355 Ml",2.93,981,9/7/2023,household,Zoovu,SF,Suite 66,false,5/5/2023
+783,"7up Diet, 355 Ml",15.73,727,4/22/2023,household,Tagtune,APO,PO Box 67975,true,10/20/2022
+784,Wine - Baron De Rothschild,9.63,580,9/25/2022,personal care,Fivechat,BLH,Apt 1097,true,7/7/2022
+785,Potatoes - Peeled,9.52,417,11/13/2022,beverages,Nlounge,OFS,2nd Floor,false,12/26/2023
+786,Beer - Fruli,6.93,374,3/20/2022,food,Photobug,MMC,Suite 30,true,4/28/2022
+787,Scrubbie - Scotchbrite Hand Pad,39.09,458,9/1/2023,personal care,Izio,KR,PO Box 25092,true,3/9/2022
+788,"Capon - Breast, Wing On",25.2,50,7/9/2022,beverages,Yakidoo,INSW,Room 1382,true,12/8/2023
+789,Tequila Rose Cream Liquor,51.45,954,5/7/2023,beverages,Katz,PPHMP,PO Box 23419,true,9/15/2022
+790,Tamarillo,62.68,563,9/5/2022,household,Agivu,NYMT,Apt 805,false,1/25/2022
+791,Chivas Regal - 12 Year Old,20.53,148,11/4/2023,beverages,Livetube,SAVE,Room 1010,false,9/27/2022
+792,Lamb - Bones,16.36,813,5/14/2023,beverages,Bubblemix,IFV,PO Box 15075,false,12/5/2023
+793,"Noodles - Cellophane, Thin",52.44,665,6/16/2023,personal care,Browsetype,BBT^G,Suite 44,false,3/2/2022
+794,Bread Sour Rolls,39.07,844,11/13/2023,beverages,Jabbertype,KWEB,PO Box 24664,false,10/12/2022
+795,Mortadella,39.55,350,3/19/2022,personal care,Babblestorm,JELD,Room 1399,true,8/8/2022
+796,Cinnamon Rolls,73.65,452,10/25/2023,food,Mycat,FSD,Suite 79,true,1/17/2022
+797,Horseradish - Prepared,44.75,248,6/30/2022,personal care,Voonder,LINU,Apt 437,true,10/23/2022
+798,Ice Cream - Chocolate,7.98,99,3/26/2022,food,Meembee,WOOD,Room 526,false,8/17/2022
+799,Wine - Sauvignon Blanc Oyster,70.27,79,6/9/2023,food,Voonder,QURE,Suite 53,true,3/17/2023
+800,"Nut - Peanut, Roasted",63.41,207,8/13/2022,beverages,Tambee,PXLW,Room 1329,true,8/31/2022
+801,Corn - Mini,37.47,10,3/12/2023,personal care,Dynabox,MCRI,10th Floor,false,1/6/2023
+802,"Water - Mineral, Carbonated",85.25,527,3/4/2022,household,Rhyloo,YUM,Room 1754,true,12/21/2023
+803,Higashimaru Usukuchi Soy,60.22,293,4/15/2023,household,Brainsphere,EXC,Room 588,false,4/25/2022
+804,Cucumber - English,27.86,253,2/17/2022,personal care,Realmix,VHI,3rd Floor,true,3/5/2023
+805,"Orange - Canned, Mandarin",8.08,573,8/14/2023,food,Jabberstorm,OIIM,PO Box 70445,false,1/7/2023
+806,Crackers - Water,74.39,40,12/4/2023,beverages,Jayo,ASX,Apt 1357,true,11/22/2022
+807,"Wine - Red, Gamay Noir",40.58,540,5/29/2023,household,Wordify,CYAN,3rd Floor,true,7/13/2022
+808,Rabbit - Whole,62.59,445,12/12/2023,household,Jaxworks,ACV,2nd Floor,false,8/22/2023
+809,Tea - Honey Green Tea,26.04,384,2/20/2023,personal care,Devpulse,TNP^E,Apt 1239,true,6/17/2023
+810,Bread Crumbs - Japanese Style,47.18,564,12/16/2023,personal care,Roombo,MTR,Room 1397,true,6/13/2022
+811,Macaroons - Homestyle Two Bit,52.63,627,4/21/2022,beverages,Topicblab,MWA,Suite 16,false,7/15/2022
+812,Triple Sec - Mcguinness,41.0,933,1/4/2022,household,Youopia,JGH,Room 1586,false,3/8/2023
+813,Cake - Cake Sheet Macaroon,82.52,600,11/24/2022,personal care,DabZ,FNK,Apt 1437,false,7/31/2023
+814,"Mushrooms - Black, Dried",12.4,638,1/29/2023,beverages,Yadel,ARNC^B,Room 1084,true,12/16/2023
+815,"Soup - Campbells, Chix Gumbo",16.79,311,8/15/2023,personal care,Realcube,ZYNE,PO Box 39207,true,4/6/2023
+816,"Cheese - Brie, Triple Creme",14.57,482,11/22/2023,personal care,Zoombox,GLBR,Apt 1840,false,7/30/2023
+817,Green Tea Refresher,27.67,519,9/24/2023,food,Skippad,ABRN,Apt 1076,false,4/18/2023
+818,"Turkey - Whole, Fresh",93.55,966,6/10/2022,household,Gigashots,NUO,PO Box 3441,true,2/11/2023
+819,Bread - Italian Corn Meal Poly,93.15,260,7/16/2022,food,Wordware,CNIT,20th Floor,true,6/27/2023
+820,"Soup - Campbells, Lentil",43.84,655,8/21/2022,personal care,Skilith,EFOI,13th Floor,true,5/17/2022
+821,Soup - Tomato Mush. Florentine,43.18,773,6/28/2022,personal care,Skyba,NGHCZ,Suite 96,true,11/9/2022
+822,Shrimp - Tiger 21/25,48.1,614,6/25/2023,personal care,Jetpulse,PCTY,PO Box 54754,true,7/26/2023
+823,Pork - Kidney,82.1,174,2/6/2022,beverages,Feedfire,AGU,PO Box 52761,false,9/1/2022
+824,Green Tea Refresher,5.81,467,10/3/2023,beverages,Photobug,DTQ,PO Box 17713,false,10/1/2022
+825,"Pork - Loin, Center Cut",77.14,36,10/2/2022,household,Viva,SRV,Apt 669,true,3/12/2022
+826,Chocolate Bar - Reese Pieces,94.58,122,12/18/2023,personal care,Skipstorm,ALDW,Room 1989,true,1/27/2022
+827,Lemon Tarts,59.6,204,3/29/2023,personal care,Zoomzone,CLNS^F.CL,1st Floor,true,11/29/2023
+828,Juice - Apple Cider,71.82,500,1/27/2022,personal care,Wikido,WTTR,Apt 1746,false,2/8/2022
+829,Bagels Poppyseed,80.25,419,5/10/2022,food,Babblestorm,MHD,7th Floor,false,1/13/2023
+830,"Wine - Red, Concha Y Toro",94.2,183,7/28/2022,beverages,Yodel,SNY,Room 1577,true,9/30/2023
+831,Wine - Cabernet Sauvignon,93.0,164,7/31/2022,personal care,Brainverse,WTI,9th Floor,false,9/8/2022
+832,"Soup - Campbells, Classic Chix",33.96,352,4/16/2022,personal care,Zazio,ACM,Suite 77,false,7/16/2023
+833,Chicken - Whole Fryers,78.58,632,7/31/2022,personal care,Tagopia,GPIA,PO Box 31156,false,10/24/2022
+834,Beef - Texas Style Burger,22.56,746,9/27/2023,personal care,Flashset,MPACU,Suite 39,false,3/19/2023
+835,Bread - Bistro Sour,12.62,124,10/1/2023,household,Blogspan,WIN,Room 1955,false,4/27/2022
+836,Vinegar - Cider,95.59,690,5/10/2023,beverages,Cogilith,TISA,14th Floor,false,8/1/2022
+837,"Lid - 10,12,16 Oz",89.13,761,3/15/2023,beverages,Rhyzio,PFO,4th Floor,false,8/29/2023
+838,Pork Loin Bine - In Frenched,62.34,288,3/12/2023,personal care,Jayo,FV,PO Box 86489,true,4/16/2023
+839,Bread - English Muffin,50.22,859,5/5/2022,personal care,Browsedrive,FINX,PO Box 16031,true,3/23/2023
+840,Wine - Chablis J Moreau Et Fils,51.07,856,5/14/2023,beverages,Photospace,HTBX,PO Box 11690,false,8/4/2023
+841,Sugar - Icing,62.79,808,1/29/2022,food,Demivee,FLS,Apt 1917,true,11/18/2022
+842,Wine - Merlot Vina Carmen,96.03,647,4/11/2023,beverages,Quimba,LCUT,PO Box 92072,false,7/25/2022
+843,Sauce - Marinara,96.94,758,12/13/2023,household,Voonyx,PRXL,20th Floor,true,8/6/2023
+844,Spice - Montreal Steak Spice,80.42,5,8/30/2023,beverages,Photolist,FNK,Room 1443,true,7/30/2022
+845,Longos - Greek Salad,67.15,857,5/13/2022,food,Chatterpoint,CHCT,Apt 1740,false,3/7/2023
+846,Coffee - Espresso,30.29,478,3/8/2023,household,Photobug,BKU,Room 42,false,4/24/2023
+847,Gatorade - Orange,51.53,718,11/26/2023,beverages,Jabberbean,GRAM,Suite 97,true,7/25/2022
+848,Beer - Blue Light,61.95,702,9/18/2022,food,Dabtype,IBKCO,Suite 88,true,11/10/2023
+849,Lettuce - Iceberg,29.46,739,6/29/2023,food,Agivu,SONA,PO Box 12005,false,1/3/2022
+850,Bread - French Baquette,10.63,124,7/21/2022,personal care,Feedfish,ORBK,Suite 96,true,4/11/2023
+851,"Coke - Classic, 355 Ml",40.17,676,6/11/2022,household,Mymm,NTEST.C,Apt 1458,false,9/13/2023
+852,Sobe - Green Tea,64.08,760,9/7/2022,household,Babbleblab,OSG,PO Box 60934,true,6/4/2022
+853,Yogurt - Plain,24.85,291,6/13/2023,household,Buzzshare,SPEX,9th Floor,true,10/1/2023
+854,"Pepper - White, Whole",79.78,691,6/20/2022,household,Janyx,PFS,Suite 52,false,11/27/2023
+855,Sauce - Demi Glace,32.92,344,4/7/2023,beverages,Flashpoint,RKDA,Apt 1025,false,12/24/2022
+856,Cake - Night And Day Choclate,21.41,132,6/15/2023,food,Yoveo,INN^D,PO Box 36102,false,2/5/2023
+857,Lettuce - Lambs Mash,92.88,82,5/19/2023,food,Oyoba,PNNT,Apt 773,false,9/7/2023
+858,Table Cloth 62x120 White,96.32,436,10/30/2022,food,Livetube,INSI,Suite 73,true,9/12/2022
+859,Pear - Packum,25.38,900,5/28/2023,personal care,Yakijo,TCO^J,PO Box 26856,false,3/15/2022
+860,Spice - Greek 1 Step,20.81,978,4/29/2022,beverages,Flipopia,CTAA,Apt 352,true,10/22/2023
+861,Wine - Trimbach Pinot Blanc,44.28,737,11/8/2023,household,Voomm,TEAR,Suite 21,true,6/24/2023
+862,Soupcontfoam16oz 116con,40.28,818,2/8/2023,beverages,Shuffletag,AEO,4th Floor,false,10/5/2023
+863,Pastry - Butterscotch Baked,37.88,626,4/27/2022,personal care,Jamia,SSBI,Suite 52,false,2/1/2023
+864,Nacho Chips,70.79,436,1/24/2022,beverages,Realcube,NBTB,Room 430,false,4/1/2022
+865,Langers - Cranberry Cocktail,95.3,85,3/30/2023,household,Feedbug,IEP,Room 1756,true,11/20/2022
+866,Coffee Swiss Choc Almond,28.58,375,10/21/2022,beverages,Skidoo,BKS,Apt 1237,false,5/17/2022
+867,"Beef - Chuck, Boneless",92.47,233,12/4/2022,personal care,Shufflester,ABAC,Room 769,false,8/18/2023
+868,"Flour - Bran, Red",92.31,682,2/25/2022,personal care,Dynabox,BPFHP,Room 1578,true,3/13/2022
+869,Carrots - Mini Red Organic,78.98,209,2/5/2022,food,Zoonder,VDTH,Room 1729,false,7/11/2022
+870,Wine - Prosecco Valdobienne,21.7,849,6/23/2022,beverages,Mydeo,GERN,Room 1776,false,3/17/2022
+871,"Mop Head - Cotton, 24 Oz",47.16,347,12/7/2022,beverages,Edgepulse,CALM,PO Box 67591,true,1/1/2022
+872,Muffin - Mix - Bran And Maple 15l,41.01,663,12/23/2023,personal care,Mybuzz,FRC^H,15th Floor,true,5/12/2022
+873,"Yogurt - Peach, 175 Gr",91.4,977,8/29/2023,personal care,Buzzshare,LII,Apt 1491,false,11/3/2022
+874,Tomatoes - Heirloom,76.98,507,1/14/2023,household,Youbridge,NEE^Q,Suite 97,true,10/2/2022
+875,Bagelers - Cinn / Brown Sugar,62.6,906,8/6/2023,beverages,Skinte,GLDI,5th Floor,true,1/3/2023
+876,Parsnip,63.01,230,8/31/2022,household,Kimia,MMDMW,Apt 704,true,5/31/2022
+877,Melon - Watermelon Yellow,3.89,662,3/16/2022,beverages,Skivee,CTRP,Apt 1779,false,11/19/2022
+878,Chevere Logs,57.0,77,6/6/2023,personal care,Katz,CMCM,Room 1912,false,6/4/2023
+879,Mahi Mahi,93.07,716,12/1/2022,household,Viva,ATLC,Room 171,false,11/10/2023
+880,Pork - Smoked Kassler,31.26,273,10/7/2022,beverages,Youfeed,POWL,PO Box 87164,false,4/10/2023
+881,Oranges,39.23,4,7/14/2022,beverages,Quaxo,TDA,Suite 42,true,4/5/2022
+882,Squid - U 5,93.68,140,5/3/2022,household,Aimbo,GTYHU,Suite 97,false,9/15/2023
+883,Myers Planters Punch,23.56,964,12/9/2022,food,Abata,CYAD,PO Box 5706,false,3/28/2023
+884,Wine - Carmenere Casillero Del,27.93,200,10/29/2022,food,Trudeo,IMMU,Apt 1296,true,6/8/2022
+885,"Fish - Soup Base, Bouillon",75.96,333,7/2/2022,personal care,Omba,AIV^A,7th Floor,false,9/1/2022
+886,Water - Evian 355 Ml,95.25,417,7/28/2022,beverages,Minyx,NMI,Apt 919,true,9/9/2023
+887,Tart - Raisin And Pecan,30.47,817,7/29/2023,beverages,Twinder,CLSN,Apt 454,true,2/6/2022
+888,Cheese - Pied De Vents,36.62,872,2/10/2022,food,Browsebug,L,Apt 995,false,5/16/2022
+889,Plums - Red,19.9,807,1/4/2023,household,Mynte,PRMW,Apt 553,true,6/26/2023
+890,"Salmon - Atlantic, Skin On",9.55,773,10/2/2022,food,Photojam,BGR,PO Box 43723,false,12/9/2023
+891,Cookies - Assorted,70.84,658,12/21/2023,beverages,Kimia,UNFI,Room 1494,false,12/3/2023
+892,Fudge - Chocolate Fudge,35.23,898,3/19/2023,personal care,Skinix,AQB,Room 1705,true,12/4/2022
+893,"Turkey - Breast, Smoked",34.11,449,1/27/2023,personal care,Wikizz,TECD,PO Box 16760,false,8/8/2022
+894,Chocolate Eclairs,29.95,764,3/15/2022,food,Thoughtstorm,BSFT,20th Floor,true,11/1/2023
+895,Wine - Vovray Sec Domaine Huet,51.02,726,6/15/2022,beverages,Realpoint,UCP,Room 1628,true,11/12/2022
+896,Coffee - Egg Nog Capuccino,68.03,822,2/24/2023,personal care,Youfeed,HD,11th Floor,true,5/14/2022
+897,Island Oasis - Peach Daiquiri,11.76,555,9/21/2022,household,Yambee,FMI,Room 1875,true,2/7/2022
+898,Mustard - Individual Pkg,80.58,45,4/10/2022,personal care,Bubbletube,CMCSA,Room 1247,true,1/26/2022
+899,External Supplier,64.42,930,2/13/2022,personal care,Jaxnation,FCFP,Room 737,true,7/31/2022
+900,Trout - Smoked,78.52,671,12/27/2022,household,Browsezoom,RPXC,PO Box 57395,true,2/4/2022
+901,"Wine - Red, Colio Cabernet",99.31,869,4/19/2022,food,Bluezoom,RTNB,Room 1376,true,9/3/2023
+902,Bar Bran Honey Nut,69.75,15,8/16/2022,personal care,Babblestorm,CA,Room 295,true,8/24/2023
+903,Paper - Brown Paper Mini Cups,81.54,65,9/5/2022,personal care,Shufflester,PTEN,PO Box 5752,false,11/28/2023
+904,Mushroom - Lg - Cello,57.81,558,10/20/2022,personal care,Meevee,FE,Suite 12,true,4/14/2023
+905,Beef - Texas Style Burger,98.11,925,2/10/2022,beverages,Oba,TOL,Suite 4,true,2/19/2023
+906,"Apple - Delicious, Red",69.64,38,2/20/2023,personal care,Flashpoint,SNCR,Room 1274,false,3/19/2022
+907,Tarts Assorted,30.44,727,6/21/2023,food,Divape,GABC,Room 896,true,8/7/2022
+908,Lamb Tenderloin Nz Fr,87.01,548,10/27/2022,personal care,Tazz,EGHT,Suite 18,true,5/23/2022
+909,Bread - Raisin,98.12,625,12/27/2022,food,Bluejam,BML^H,10th Floor,true,9/16/2023
+910,Dome Lid Clear P92008h,35.88,332,4/12/2023,household,Skiba,CNSL,5th Floor,false,12/3/2023
+911,Wine - Maipo Valle Cabernet,70.83,6,8/8/2023,personal care,Viva,FTR,Room 505,false,12/10/2023
+912,Baking Soda,68.57,974,3/16/2023,household,Kwimbee,SMMT,Room 518,false,6/29/2022
+913,Pastry - Choclate Baked,90.3,560,3/14/2022,beverages,Linkbuzz,ZNH,Room 1153,true,5/27/2022
+914,Sausage - Meat,80.41,540,4/15/2022,food,Babbleopia,ESE,Suite 74,true,3/29/2023
+915,Cheese - Perron Cheddar,73.56,413,1/11/2023,household,Minyx,EFAS,PO Box 90528,true,5/21/2023
+916,"Beans - Turtle, Black, Dry",53.97,598,8/13/2023,food,Browsetype,ADOM,PO Box 38334,false,8/6/2022
+917,Gatorade - Fruit Punch,81.12,340,4/16/2022,personal care,Yodo,XBIT,4th Floor,true,5/25/2023
+918,"Capon - Breast, Double, Wing On",68.72,888,6/24/2022,household,Jaxspan,HPE,Suite 64,false,7/8/2023
+919,Soup - Campbellschix Stew,26.08,89,5/19/2023,household,Youspan,PML,10th Floor,true,9/13/2023
+920,Wine - Cabernet Sauvignon,63.41,376,12/13/2023,personal care,Aimbo,MTGEP,Apt 1513,true,5/23/2022
+921,Pears - Bartlett,7.58,594,10/26/2022,food,Camimbo,SWFT,15th Floor,false,10/14/2022
+922,Monkfish - Fresh,36.23,299,11/28/2023,household,Topdrive,PE,Suite 21,true,10/23/2023
+923,Beef - Tenderloin,53.95,449,7/4/2023,food,Gabtype,VREX,Apt 1975,true,6/5/2022
+924,Jam - Apricot,38.52,82,7/11/2023,personal care,Dynabox,DYNC,5th Floor,false,7/19/2023
+925,"Soup - Knorr, Chicken Gumbo",28.77,218,12/20/2023,beverages,Quimba,ONS,10th Floor,false,10/19/2022
+926,Salmon - Sockeye Raw,88.5,746,2/24/2022,personal care,Devify,NMT,Suite 70,false,7/3/2023
+927,Mushroom - Portebello,82.96,72,2/23/2022,beverages,Lazzy,JKHY,Apt 914,false,6/12/2022
+928,Strawberries,77.67,347,3/21/2023,beverages,Gabvine,BX,Suite 5,true,5/25/2022
+929,"Lentils - Red, Dry",52.95,269,6/14/2023,food,Centimia,AAOI,PO Box 41738,false,1/14/2022
+930,Wine - Valpolicella Masi,67.27,960,1/15/2022,household,Babblestorm,KAI,Room 1613,false,8/10/2022
+931,"Oil - Food, Lacquer Spray",83.57,322,10/23/2022,personal care,Skynoodle,JSYN,Room 1947,false,12/22/2022
+932,Container - Clear 32 Oz,7.0,192,10/13/2023,household,Demivee,FRBA,PO Box 5302,false,3/31/2022
+933,Oil - Pumpkinseed,59.12,123,8/15/2022,household,Gigabox,DFS^B,Apt 1041,true,3/16/2022
+934,Sage - Ground,88.08,601,11/14/2022,personal care,Blogpad,DUKH,PO Box 33746,false,1/7/2023
+935,Numi - Assorted Teas,1.27,642,9/22/2023,food,Fivebridge,ZN,Room 1866,true,3/29/2023
+936,Wine - Pinot Noir Mondavi Coastal,48.94,315,3/9/2022,beverages,Dabfeed,MFINL,Suite 43,false,4/5/2023
+937,Jicama,55.34,475,1/16/2023,beverages,Pixonyx,PCRX,11th Floor,false,6/27/2022
+938,Fiddlehead - Frozen,2.8,51,10/31/2022,personal care,Skinder,LQDT,Apt 1543,true,2/14/2023
+939,Latex Rubber Gloves Size 9,95.75,478,6/17/2023,beverages,Gigazoom,NBHC,PO Box 56537,true,5/12/2023
+940,"Wine - Red, Mouton Cadet",39.47,881,10/25/2023,household,Fatz,QNST,PO Box 70835,false,2/9/2023
+941,Muffin Carrot - Individual,96.89,976,6/1/2022,beverages,Dabshots,OHGI,20th Floor,false,2/5/2022
+942,Steel Wool S.o.s,45.81,96,5/25/2022,beverages,Yata,BLCM,Room 1291,true,11/1/2022
+943,Kolrabi,13.05,545,3/20/2022,beverages,Skyndu,EGF,Room 87,false,7/3/2022
+944,Soup - Campbells,15.73,829,10/16/2022,personal care,Meembee,BOFIL,Suite 36,false,7/14/2022
+945,Plasticforkblack,42.31,53,12/12/2022,beverages,Jamia,TAHO,Apt 680,true,7/10/2023
+946,Bouillion - Fish,45.01,55,8/17/2022,beverages,Pixope,GRID,Suite 55,true,9/3/2022
+947,Haggis,92.54,338,8/10/2022,food,Edgetag,MSTR,Room 1424,false,12/21/2023
+948,Tomato - Plum With Basil,50.48,356,2/15/2023,household,Zoonoodle,CRR,Apt 440,false,3/5/2022
+949,"Soup - Campbells, Beef Barley",90.26,1,7/12/2022,food,Twitterwire,TYL,Apt 729,true,2/24/2022
+950,Thyme - Dried,93.49,975,2/3/2023,beverages,Photobug,AVGR,10th Floor,true,2/1/2022
+951,Wine - Ruffino Chianti Classico,11.1,772,8/24/2023,household,Skivee,EVK,PO Box 30459,true,6/25/2022
+952,Muffin Chocolate Individual Wrap,64.1,789,10/2/2022,beverages,Innojam,GYC,17th Floor,true,11/11/2023
+953,Sesame Seed,53.51,950,3/2/2023,food,Realcube,GBDC,4th Floor,false,1/2/2023
+954,"Rum - Dark, Bacardi, Black",77.52,866,12/17/2022,beverages,Buzzdog,TXRH,PO Box 35041,true,12/16/2022
+955,"Wine - Red, Black Opal Shiraz",54.1,942,5/24/2023,household,Babbleopia,WVVIP,Apt 427,false,9/15/2023
+956,Wine - Wyndham Estate Bin 777,81.61,894,3/24/2023,personal care,Browsebug,MTG,Apt 286,false,11/21/2023
+957,Jameson Irish Whiskey,7.15,873,12/8/2023,beverages,Mydeo,CYRN,Apt 1278,false,6/12/2023
+958,"Beans - Turtle, Black, Dry",13.72,511,5/25/2023,food,Jayo,SB^C,PO Box 13357,true,3/15/2022
+959,Kellogs Raisan Bran Bars,36.05,44,3/7/2022,household,Voonder,JW.A,Suite 35,true,11/15/2022
+960,Chambord Royal,16.51,250,4/14/2023,food,Gabspot,ACOR,17th Floor,true,7/30/2023
+961,Onions - Vidalia,76.23,698,8/10/2022,food,Zoozzy,AMCX,Apt 1527,false,7/13/2022
+962,Chips - Miss Vickies,45.63,647,8/18/2023,household,Trilith,BRK.B,Apt 1984,false,6/11/2023
+963,Broccoli - Fresh,4.67,920,12/1/2023,household,Youspan,ABAX,PO Box 65308,false,3/6/2022
+964,Flower - Dish Garden,3.9,959,7/28/2022,personal care,Podcat,CZFC,Room 524,true,2/2/2022
+965,Bar Mix - Lemon,73.21,582,12/30/2023,personal care,Devcast,FRME,PO Box 1276,false,4/21/2022
+966,"Mushroom - Chanterelle, Dry",13.22,282,3/7/2022,food,Lazzy,SB^D,Room 1459,true,7/28/2022
+967,"Apple - Delicious, Golden",52.59,187,4/2/2023,food,Innojam,GS^A,Room 299,true,12/1/2023
+968,"Coke - Diet, 355 Ml",3.41,448,5/19/2023,personal care,Yakitri,HBM,Apt 1167,true,7/16/2023
+969,Cheese Cloth No 100,98.39,817,8/20/2023,beverages,Voonyx,SGBX,5th Floor,true,11/14/2023
+970,Versatainer Nc - 9388,25.21,527,4/12/2022,personal care,Tavu,MUA,Suite 56,true,9/22/2022
+971,Cookie - Oatmeal,79.51,503,4/24/2022,household,Browsebug,CPSS,PO Box 24670,false,8/14/2023
+972,Sea Urchin,7.18,150,1/4/2023,beverages,Shuffledrive,CSB,PO Box 78150,true,11/8/2023
+973,Cheese - Taleggio D.o.p.,51.67,424,11/21/2023,beverages,Roombo,MBSD,Suite 4,false,2/19/2023
+974,Loquat,21.32,395,11/29/2022,household,Eazzy,TOUR,1st Floor,false,7/1/2022
+975,Tequila - Sauza Silver,88.01,347,8/13/2023,food,Yombu,SITO,Suite 54,true,11/15/2022
+976,Pumpkin,80.04,738,4/18/2023,household,Dazzlesphere,IOSP,Apt 762,true,6/14/2022
+977,"Pork - Loin, Center Cut",15.89,486,3/23/2022,personal care,Kwinu,KKR^B,Room 1990,false,6/23/2022
+978,Rice Wine - Aji Mirin,29.85,984,5/24/2023,beverages,Rhynyx,XRAY,PO Box 25134,true,1/10/2023
+979,Table Cloth 62x120 White,66.69,82,10/29/2022,food,Katz,FBC,Room 906,true,3/13/2022
+980,Basil - Seedlings Cookstown,99.4,893,2/10/2022,household,Zoombox,MICTW,PO Box 43730,true,11/14/2022
+981,"Napkin - Cocktail,beige 2 - Ply",67.98,625,11/23/2023,household,Buzzshare,BBT^H,Suite 50,true,7/27/2022
+982,"Pork - Bacon, Sliced",38.18,159,11/24/2023,food,Jazzy,STLRU,PO Box 14979,true,5/19/2023
+983,Bread - Burger,8.5,265,8/8/2022,beverages,Wikibox,FRC^F,Room 1607,false,11/8/2022
+984,Wine - Sicilia Igt Nero Avola,38.84,359,6/24/2022,food,Skidoo,FUL,Room 1976,false,10/29/2022
+985,Horseradish Root,98.25,454,1/13/2022,household,Dabfeed,CIM^A,Suite 37,true,11/7/2023
+986,Flax Seed,41.96,770,2/17/2023,personal care,Wordware,HFC,3rd Floor,false,5/13/2023
+987,"Napkin - Beverge, White 2 - Ply",80.88,379,12/20/2023,household,Meembee,BBT^E,18th Floor,false,6/25/2023
+988,Cheese - Comte,2.38,564,1/26/2022,beverages,Jabbercube,RGLS,PO Box 92225,false,8/26/2023
+989,"Rum - Light, Captain Morgan",43.23,52,9/20/2023,food,Dabfeed,RDNT,Room 910,true,10/31/2022
+990,"Roe - Lump Fish, Red",6.05,83,11/5/2022,household,Babblestorm,SMBC,13th Floor,false,4/1/2022
+991,Cheese - Taleggio D.o.p.,50.95,2,2/19/2022,beverages,Aibox,MTT,Room 789,true,7/5/2023
+992,Flour - All Purpose,56.48,13,7/9/2022,household,Edgeify,NTEST.C,Apt 578,false,6/13/2023
+993,Vanilla Beans,4.41,6,2/5/2022,beverages,Feednation,WSBC,Room 411,true,6/22/2022
+994,Hagen Daza - Dk Choocolate,52.98,547,11/1/2022,personal care,Linkbuzz,NANO,17th Floor,true,10/28/2022
+995,Towels - Paper / Kraft,93.21,299,7/12/2023,personal care,Devify,HLS,14th Floor,true,12/2/2023
+996,Absolut Citron,54.19,111,10/10/2023,beverages,Gabtune,FWONA,PO Box 57158,true,10/8/2023
+997,"Garlic - Primerba, Paste",82.3,516,7/30/2023,household,Yozio,XEL,Suite 59,true,2/8/2022
+998,Lamb - Loin Chops,36.98,67,6/2/2022,beverages,Kayveo,STAR^E,Room 801,true,12/15/2023
+999,Shortbread - Cookie Crumbs,8.73,542,6/29/2022,household,Voolith,BHP,Suite 65,false,4/18/2022
+1000,Broom And Brush Rack Black,29.18,390,8/20/2023,personal care,Skalith,DLTH,Suite 79,false,8/6/2023

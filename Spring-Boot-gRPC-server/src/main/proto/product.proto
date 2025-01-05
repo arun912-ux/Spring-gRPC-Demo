@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+package com.example.springbootgrpc;
+
+service ProductService {
+
+  rpc GetProduct (ProductRequest) returns (ProductResponse);
+}
+
+
+message ProductRequest {
+  int32 id = 1;
+}
+
+message ProductResponse {
+  int32 id = 1;
+  string product_name = 2;
+  double price = 3;
+  int32 quantity = 4;
+  google.protobuf.Timestamp expiration_date = 5;
+  string category = 6;
+  string manufacturer = 7;
+  string stock_symbol = 8;
+  string location = 9;
+  string is_available = 10;
+  google.protobuf.Timestamp purchase_date = 11;
+
+}
