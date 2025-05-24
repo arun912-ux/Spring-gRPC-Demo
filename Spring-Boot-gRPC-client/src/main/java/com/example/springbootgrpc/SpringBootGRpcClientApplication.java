@@ -2,11 +2,13 @@ package com.example.springbootgrpc;
 
 import com.example.springbootgrpc.client.ProductServiceGrpcClient;
 import lombok.extern.slf4j.Slf4j;
-import net.devh.boot.grpc.client.inject.GrpcClient;
+//import net.devh.boot.grpc.client.inject.GrpcClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.grpc.client.ImportGrpcClients;
+import org.springframework.grpc.server.service.GrpcService;
 
 @Slf4j
 @SpringBootApplication
@@ -14,14 +16,15 @@ public class SpringBootGRpcClientApplication implements CommandLineRunner {
 
     /*-----------------------------------------------------------------------------------------
      * There are two ways to create a gRPC client:
-     * 1. Annotated using @GrpcClient - need to add properties in application.yml
+     * 1. Annotated using @GrpcClient - need to add properties in application.yml       // TODO: this got changed. manually create a bean of BlockingStub
      * 2. Using GRPCClient class implementation - manually create managed channel and stub
      ----------------------------------------------------------------------------------------- */
 
     @Autowired
     private ProductServiceGrpcClient productServiceGrpcClient;
 
-    @GrpcClient("product-service")
+//    @GrpcClient("product-service")
+    @Autowired
     private ProductServiceGrpc.ProductServiceBlockingStub productServiceStub;
 
 

@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 public class ProductServiceGrpcClient {
 
     private final static String GRPC_SERVER_HOST = "127.0.0.1";
-    private final static Integer GRPC_SERVER_PORT = 9090;
+    private final static Integer GRPC_SERVER_PORT = 9091;
 
     /**
      * This class is a GRPC client for {@link ProductServiceGrpc}

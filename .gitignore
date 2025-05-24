@@ -3,3 +3,35 @@
 
 # Ignore Gradle build output directory
 build
+# Ignore IntelliJ files
+.idea/
+*.iml
+*.iws
+
+# Ignore Gradle-specific files
+.gradle/
+build/
+out/
+gradle-app.setting
+
+# Ignore Java build output directories
+target/
+bin/
+
+# Ignore Spring Boot specific files
+*.jar
+*.war
+*.ear
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
