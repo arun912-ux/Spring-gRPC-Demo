@@ -9,7 +9,7 @@ group = 'com.example'
 version = '0.0.1-SNAPSHOT'
 
 ext {
-    PROJECT_NAME = 'delimiter-parser'
+    PROJECT_NAME = 'spring-boot-grpc-server'
     PROJECT_VERSION = project.version
 }
 
@@ -41,7 +41,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
     runtimeOnly 'org.mariadb.jdbc:mariadb-java-client'
 
-//    implementation 'io.grpc:grpc-services'
+    implementation 'io.grpc:grpc-services'
     implementation 'org.springframework.grpc:spring-grpc-spring-boot-starter'
     implementation 'io.grpc:grpc-netty-shaded'
     modules {

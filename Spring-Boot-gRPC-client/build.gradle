@@ -9,7 +9,7 @@ group = 'com.example'
 version = '0.0.1-SNAPSHOT'
 
 ext {
-    PROJECT_NAME = 'delimiter-parser'
+    PROJECT_NAME = 'spring-boot-grpc-client'
     PROJECT_VERSION = project.version
 }
 
@@ -39,7 +39,7 @@ repositories {
 
 
 dependencies {
-//    implementation 'io.grpc:grpc-services'
+    implementation 'io.grpc:grpc-services'
 //    implementation "org.springframework.grpc:spring-grpc-client-spring-boot-starter"
     implementation "org.springframework.grpc:spring-grpc-spring-boot-starter"
     implementation 'io.grpc:grpc-netty-shaded'

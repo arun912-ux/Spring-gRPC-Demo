@@ -21,8 +21,11 @@ spring:
   jdbc:
     template:
       query-timeout: 15s
+
   grpc:
     server:
-      port: 9091
+      address: 0.0.0.0:9091
+      reflection:
+        enabled: true
 
 
